@@ -1,0 +1,315 @@
+a,b,cpp,all_name,curvegroup_name,dma2_name,dma1_name,chan1_name,sales1_name
+328.6299164,2.00E-05,0.379648343,overall,weekly,Tier 1,New York,Direct Mail,Product A
+29.2713953,0.000245701,0.378806433,overall,weekly,Tier 3,Providence,Direct Mail,Product A
+24.71632935,0.000160131,0.402485441,overall,weekly,Tier 3,Norfolk,Direct Mail,Product A
+23.13371797,0.000151988,0.402485441,overall,weekly,Tier 3,Richmond,Direct Mail,Product A
+9.150152498,0.000776812,0.397636332,overall,weekly,Tier 4,Harrisburg,Direct Mail,Product A
+9.707625611,0.00080972,0.375476123,overall,weekly,Tier 4,Buffalo,Direct Mail,Product A
+8.072799898,0.001062455,0.375476123,overall,weekly,Tier 4,Syracuse,Direct Mail,Product A
+3.021509589,0.00258052,0.396118713,overall,weekly,Tier 4,Other,Direct Mail,Product A
+4.593283655,0.002073335,0.375476123,overall,weekly,Tier 4,Albany,Direct Mail,Product A
+3.053682401,0.003633836,0.408902674,overall,weekly,Tier 4,Palm Springs,Direct Mail,Product A
+134.4631617,0.000865994,0.390102624,overall,weekly,Tier 2,"Washington, DC",Direct Mail,Product A
+128.8849084,4.41E-05,0.395691282,overall,weekly,Tier 1,Philadelphia,Direct Mail,Product A
+95.94461859,7.76E-05,0.408902674,overall,weekly,Tier 2,Los Angeles,Direct Mail,Product A
+82.71958569,0.000100786,0.379162807,overall,weekly,Tier 2,Tampa,Direct Mail,Product A
+56.78625864,0.000101165,0.382503021,overall,weekly,Tier 2,Boston,Direct Mail,Product A
+48.51335464,7.91E-05,0.404477515,overall,weekly,Tier 3,Baltimore,Direct Mail,Product A
+41.74313548,0.000219903,0.40463926,overall,weekly,Tier 3,Dallas,Direct Mail,Product A
+30.26107663,0.000250911,0.397636332,overall,weekly,Tier 3,Pittsburgh,Direct Mail,Product A
+164.3149582,4.00E-05,0.379648343,overall,weekly,Tier 1,New York,Direct Mail,Product B
+14.63569765,0.000491402,0.378806433,overall,weekly,Tier 3,Providence,Direct Mail,Product B
+12.35816468,0.000320262,0.402485441,overall,weekly,Tier 3,Norfolk,Direct Mail,Product B
+11.56685899,0.000303976,0.402485441,overall,weekly,Tier 3,Richmond,Direct Mail,Product B
+4.575076249,0.001553624,0.397636332,overall,weekly,Tier 4,Harrisburg,Direct Mail,Product B
+4.853812806,0.00161944,0.375476123,overall,weekly,Tier 4,Buffalo,Direct Mail,Product B
+4.036399949,0.00212491,0.375476123,overall,weekly,Tier 4,Syracuse,Direct Mail,Product B
+1.510754795,0.00516104,0.396118713,overall,weekly,Tier 4,Other,Direct Mail,Product B
+2.296641828,0.00414667,0.375476123,overall,weekly,Tier 4,Albany,Direct Mail,Product B
+1.526841201,0.007267672,0.408902674,overall,weekly,Tier 4,Palm Springs,Direct Mail,Product B
+67.23158085,0.001731988,0.390102624,overall,weekly,Tier 2,"Washington, DC",Direct Mail,Product B
+64.4424542,8.82E-05,0.395691282,overall,weekly,Tier 1,Philadelphia,Direct Mail,Product B
+47.9723093,1.55E-04,0.408902674,overall,weekly,Tier 2,Los Angeles,Direct Mail,Product B
+41.35979285,0.000201572,0.379162807,overall,weekly,Tier 2,Tampa,Direct Mail,Product B
+28.39312932,0.00020233,0.382503021,overall,weekly,Tier 2,Boston,Direct Mail,Product B
+24.25667732,1.58E-04,0.404477515,overall,weekly,Tier 3,Baltimore,Direct Mail,Product B
+20.87156774,0.000439806,0.40463926,overall,weekly,Tier 3,Dallas,Direct Mail,Product B
+15.13053832,0.000501822,0.397636332,overall,weekly,Tier 3,Pittsburgh,Direct Mail,Product B
+96.7317247,8.34E-06,1499.716012,overall,weekly,Tier 1,New York,DRTV,Product A
+11.10212628,0.00015485,84.95579234,overall,weekly,Tier 3,Providence,DRTV,Product A
+6.345527052,0.000162748,109.6511422,overall,weekly,Tier 3,Norfolk,DRTV,Product A
+6.91097161,0.000225087,78.44887229,overall,weekly,Tier 3,Richmond,DRTV,Product A
+5.142542857,0.000129474,162.078265,overall,weekly,Tier 4,Harrisburg,DRTV,Product A
+2.731997688,0.000175959,125.8336605,overall,weekly,Tier 4,Buffalo,DRTV,Product A
+2.156000044,0.000255212,76.86409212,overall,weekly,Tier 4,Syracuse,DRTV,Product A
+1.575412996,0.000175516,114.1128447,overall,weekly,Tier 4,Albany,DRTV,Product A
+1.274152986,0.000169312,90.20946133,overall,weekly,Tier 4,Palm Springs,DRTV,Product A
+47.32198702,2.00E-05,708.410217,overall,weekly,Tier 2,"Washington, DC",DRTV,Product A
+30.15254119,2.73E-05,499.2601634,overall,weekly,Tier 1,Philadelphia,DRTV,Product A
+31.59839081,4.10E-05,378.566093,overall,weekly,Tier 2,Tampa,DRTV,Product A
+22.50748713,3.60E-05,296.7485426,overall,weekly,Tier 2,Boston,DRTV,Product A
+10.035919,8.91E-05,199.7255488,overall,weekly,Tier 3,Baltimore,DRTV,Product A
+7.265657121,8.64E-05,206.1454349,overall,weekly,Tier 3,Pittsburgh,DRTV,Product A
+48.36586235,1.67E-05,1499.716012,overall,weekly,Tier 1,New York,DRTV,Product B
+5.55106314,0.0003097,84.95579234,overall,weekly,Tier 3,Providence,DRTV,Product B
+3.172763526,0.000325496,109.6511422,overall,weekly,Tier 3,Norfolk,DRTV,Product B
+3.455485805,0.000450174,78.44887229,overall,weekly,Tier 3,Richmond,DRTV,Product B
+2.571271429,0.000258948,162.078265,overall,weekly,Tier 4,Harrisburg,DRTV,Product B
+1.365998844,0.000351918,125.8336605,overall,weekly,Tier 4,Buffalo,DRTV,Product B
+1.078000022,0.000510424,76.86409212,overall,weekly,Tier 4,Syracuse,DRTV,Product B
+0.787706498,0.000351032,114.1128447,overall,weekly,Tier 4,Albany,DRTV,Product B
+0.637076493,0.000338624,90.20946133,overall,weekly,Tier 4,Palm Springs,DRTV,Product B
+23.66099351,4.00E-05,708.410217,overall,weekly,Tier 2,"Washington, DC",DRTV,Product B
+15.0762706,5.46E-05,499.2601634,overall,weekly,Tier 1,Philadelphia,DRTV,Product B
+15.79919541,8.20E-05,378.566093,overall,weekly,Tier 2,Tampa,DRTV,Product B
+11.25374357,7.20E-05,296.7485426,overall,weekly,Tier 2,Boston,DRTV,Product B
+5.0179595,1.78E-04,199.7255488,overall,weekly,Tier 3,Baltimore,DRTV,Product B
+3.632828561,1.73E-04,206.1454349,overall,weekly,Tier 3,Pittsburgh,DRTV,Product B
+15.42433513,5.18E-05,1,overall,weekly,Tier 1,New York,Hispanic - Display,Product A
+3.855924939,0.00034516,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - Display,Product A
+4.342648781,0.000295851,1,overall,weekly,Tier 1,Philadelphia,Hispanic - Display,Product A
+5.09480171,5.92E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Display,Product A
+3.305778642,0.00034516,1,overall,weekly,Tier 2,Tampa,Hispanic - Display,Product A
+1.65565208,0.000517739,1,overall,weekly,Tier 2,Boston,Hispanic - Display,Product A
+0.951374661,0.001035479,1,overall,weekly,Tier 3,Dallas,Hispanic - Display,Product A
+7.712167565,1.04E-04,1,overall,weekly,Tier 1,New York,Hispanic - Display,Product B
+1.92796247,0.00069032,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - Display,Product B
+2.171324391,0.000591702,1,overall,weekly,Tier 1,Philadelphia,Hispanic - Display,Product B
+2.547400855,1.18E-04,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Display,Product B
+1.652889321,0.00069032,1,overall,weekly,Tier 2,Tampa,Hispanic - Display,Product B
+0.82782604,0.001035478,1,overall,weekly,Tier 2,Boston,Hispanic - Display,Product B
+0.475687331,0.002070958,1,overall,weekly,Tier 3,Dallas,Hispanic - Display,Product B
+39.58439561,2.19E-05,1,overall,weekly,Tier 1,New York,Hispanic - DM,Product A
+4.507658747,0.000199332,1,overall,weekly,Tier 3,Providence,Hispanic - DM,Product A
+3.040488987,0.000301163,1,overall,weekly,Tier 3,Norfolk,Hispanic - DM,Product A
+2.852784055,0.000285849,1,overall,weekly,Tier 3,Richmond,Hispanic - DM,Product A
+1.236646992,0.002023145,1,overall,weekly,Tier 4,Harrisburg,Hispanic - DM,Product A
+1.246034666,0.000917968,1,overall,weekly,Tier 4,Buffalo,Hispanic - DM,Product A
+1.036196702,0.001204485,1,overall,weekly,Tier 4,Syracuse,Hispanic - DM,Product A
+0.471683785,0.003602945,1,overall,weekly,Tier 4,Other,Hispanic - DM,Product A
+0.589577251,0.002350509,1,overall,weekly,Tier 4,Albany,Hispanic - DM,Product A
+0.350667293,0.001541114,1,overall,weekly,Tier 4,Palm Springs,Hispanic - DM,Product A
+17.26518121,0.001930802,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DM,Product A
+15.72020779,8.48E-05,1,overall,weekly,Tier 1,Philadelphia,Hispanic - DM,Product A
+9.716999484,3.29E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - DM,Product A
+11.41868296,8.89E-05,1,overall,weekly,Tier 2,Tampa,Hispanic - DM,Product A
+6.981237328,0.000202991,1,overall,weekly,Tier 2,Boston,Hispanic - DM,Product A
+5.423925508,0.000184781,1,overall,weekly,Tier 3,Baltimore,Hispanic - DM,Product A
+5.5039818,0.000174126,1,overall,weekly,Tier 3,Dallas,Hispanic - DM,Product A
+4.089813979,0.000653474,1,overall,weekly,Tier 3,Pittsburgh,Hispanic - DM,Product A
+19.79219781,4.38E-05,1,overall,weekly,Tier 1,New York,Hispanic - DM,Product B
+2.253829374,0.000398664,1,overall,weekly,Tier 3,Providence,Hispanic - DM,Product B
+1.520244494,0.000602326,1,overall,weekly,Tier 3,Norfolk,Hispanic - DM,Product B
+1.426392028,0.000571698,1,overall,weekly,Tier 3,Richmond,Hispanic - DM,Product B
+0.618323496,0.00404629,1,overall,weekly,Tier 4,Harrisburg,Hispanic - DM,Product B
+0.623017333,0.001835936,1,overall,weekly,Tier 4,Buffalo,Hispanic - DM,Product B
+0.518098351,0.00240897,1,overall,weekly,Tier 4,Syracuse,Hispanic - DM,Product B
+0.235841893,0.00720589,1,overall,weekly,Tier 4,Other,Hispanic - DM,Product B
+0.294788626,0.004701018,1,overall,weekly,Tier 4,Albany,Hispanic - DM,Product B
+0.175333647,0.003082228,1,overall,weekly,Tier 4,Palm Springs,Hispanic - DM,Product B
+8.632590605,0.003861604,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DM,Product B
+7.860103895,1.70E-04,1,overall,weekly,Tier 1,Philadelphia,Hispanic - DM,Product B
+4.858499742,6.58E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - DM,Product B
+5.70934148,1.78E-04,1,overall,weekly,Tier 2,Tampa,Hispanic - DM,Product B
+3.490618664,0.000405982,1,overall,weekly,Tier 2,Boston,Hispanic - DM,Product B
+2.711962754,0.000369562,1,overall,weekly,Tier 3,Baltimore,Hispanic - DM,Product B
+2.7519909,0.000348252,1,overall,weekly,Tier 3,Dallas,Hispanic - DM,Product B
+2.04490699,0.001306948,1,overall,weekly,Tier 3,Pittsburgh,Hispanic - DM,Product B
+24.93988352,0.00013643,1,overall,weekly,Tier 1,New York,Hispanic - DRTV,Product A
+14.41244742,0.001589398,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DRTV,Product A
+12.46994176,0.00027286,1,overall,weekly,Tier 1,New York,Hispanic - DRTV,Product B
+7.20622371,0.003178796,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DRTV,Product B
+70.37872161,2.97E-05,1,overall,weekly,Tier 1,New York,Hispanic - Radio,Product A
+7.175022846,2.71E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Radio,Product A
+35.18936081,5.94E-05,1,overall,weekly,Tier 1,New York,Hispanic - Radio,Product B
+3.587511423,5.42E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Radio,Product B
+7.661302857,1.86E-05,1,overall,weekly,Tier 1,New York,Hispanic - TV,Product A
+3.830651429,3.72E-05,1,overall,weekly,Tier 1,New York,Hispanic - TV,Product B
+16.51092524,1.85E-05,0.051804927,overall,weekly,Tier 1,New York,Newspaper,Product A
+3.073870079,0.000230072,0.084288147,overall,weekly,Tier 3,Providence,Newspaper,Product A
+7.054272007,0.000335144,0.137810545,overall,weekly,Tier 4,Harrisburg,Newspaper,Product A
+2.371365259,4.98E-05,0.168725248,overall,weekly,Tier 4,Buffalo,Newspaper,Product A
+1.558887554,0.000131964,0.085546896,overall,weekly,Tier 4,Syracuse,Newspaper,Product A
+1.112519098,4.27E-05,0.271524648,overall,weekly,Tier 4,Other,Newspaper,Product A
+0.860576554,0.000139613,0.145826618,overall,weekly,Tier 4,Albany,Newspaper,Product A
+16.50570846,2.93E-05,0.085719509,overall,weekly,Tier 2,"Washington, DC",Newspaper,Product A
+19.47462751,4.49E-05,0.065941264,overall,weekly,Tier 1,Philadelphia,Newspaper,Product A
+4.302121677,4.90E-05,0.083400359,overall,weekly,Tier 2,Boston,Newspaper,Product A
+19.16951827,0.00017433,0.118062082,overall,weekly,Tier 3,Baltimore,Newspaper,Product A
+8.25546262,3.70E-05,0.051804927,overall,weekly,Tier 1,New York,Newspaper,Product B
+1.53693504,0.000460144,0.084288147,overall,weekly,Tier 3,Providence,Newspaper,Product B
+3.527136004,0.000670288,0.137810545,overall,weekly,Tier 4,Harrisburg,Newspaper,Product B
+1.18568263,9.96E-05,0.168725248,overall,weekly,Tier 4,Buffalo,Newspaper,Product B
+0.779443777,0.000263928,0.085546896,overall,weekly,Tier 4,Syracuse,Newspaper,Product B
+0.556259549,8.54E-05,0.271524648,overall,weekly,Tier 4,Other,Newspaper,Product B
+0.430288277,0.000279226,0.145826618,overall,weekly,Tier 4,Albany,Newspaper,Product B
+8.25285423,5.86E-05,0.085719509,overall,weekly,Tier 2,"Washington, DC",Newspaper,Product B
+9.737313755,8.98E-05,0.065941264,overall,weekly,Tier 1,Philadelphia,Newspaper,Product B
+2.151060839,9.80E-05,0.083400359,overall,weekly,Tier 2,Boston,Newspaper,Product B
+9.584759135,0.00034866,0.118062082,overall,weekly,Tier 3,Baltimore,Newspaper,Product B
+188.2250225,7.74E-05,0.00246373,overall,weekly,Tier 1,New York,Online Display,Product A
+17.80906056,0.001414486,0.002399238,overall,weekly,Tier 3,Providence,Online Display,Product A
+15.55435224,0.001937676,0.00231297,overall,weekly,Tier 3,Norfolk,Online Display,Product A
+14.54931963,0.001523042,0.002593983,overall,weekly,Tier 3,Richmond,Online Display,Product A
+11.06668094,0.006733992,0.000481414,overall,weekly,Tier 4,Harrisburg,Online Display,Product A
+2.891720744,0.002565321,0.001446197,overall,weekly,Tier 4,Buffalo,Online Display,Product A
+4.795567091,0.002322955,0.001818448,overall,weekly,Tier 4,Syracuse,Online Display,Product A
+0.209528974,0.009837203,0.002634561,overall,weekly,Tier 4,Other,Online Display,Product A
+2.727075562,0.001412771,0.002330804,overall,weekly,Tier 4,Albany,Online Display,Product A
+2.04497391,0.00810117,0.001714469,overall,weekly,Tier 4,Palm Springs,Online Display,Product A
+72.87258221,0.00021788,0.002442422,overall,weekly,Tier 2,"Washington, DC",Online Display,Product A
+74.03163624,0.000327732,0.002364755,overall,weekly,Tier 1,Philadelphia,Online Display,Product A
+54.48809155,0.000197482,0.001761033,overall,weekly,Tier 2,Los Angeles,Online Display,Product A
+48.2823516,0.000419075,0.002867156,overall,weekly,Tier 2,Tampa,Online Display,Product A
+34.04239567,0.000263713,0.002059019,overall,weekly,Tier 2,Boston,Online Display,Product A
+29.59079787,0.000707043,0.003219078,overall,weekly,Tier 3,Baltimore,Online Display,Product A
+24.89488462,0.000546731,0.001585928,overall,weekly,Tier 3,Dallas,Online Display,Product A
+18.07025487,0.001313408,0.002045456,overall,weekly,Tier 3,Pittsburgh,Online Display,Product A
+94.11251125,1.55E-04,0.00246373,overall,weekly,Tier 1,New York,Online Display,Product B
+8.90453028,0.002828972,0.002399238,overall,weekly,Tier 3,Providence,Online Display,Product B
+7.77717612,0.003875352,0.00231297,overall,weekly,Tier 3,Norfolk,Online Display,Product B
+7.274659815,0.003046084,0.002593983,overall,weekly,Tier 3,Richmond,Online Display,Product B
+5.53334047,0.013467984,0.000481414,overall,weekly,Tier 4,Harrisburg,Online Display,Product B
+1.445860372,0.005130642,0.001446197,overall,weekly,Tier 4,Buffalo,Online Display,Product B
+2.397783546,0.00464591,0.001818448,overall,weekly,Tier 4,Syracuse,Online Display,Product B
+0.104764487,0.019674406,0.002634561,overall,weekly,Tier 4,Other,Online Display,Product B
+1.363537781,0.002825542,0.002330804,overall,weekly,Tier 4,Albany,Online Display,Product B
+1.022486955,0.01620234,0.001714469,overall,weekly,Tier 4,Palm Springs,Online Display,Product B
+36.43629111,0.00043576,0.002442422,overall,weekly,Tier 2,"Washington, DC",Online Display,Product B
+37.01581812,0.000655464,0.002364755,overall,weekly,Tier 1,Philadelphia,Online Display,Product B
+27.24404578,0.000394964,0.001761033,overall,weekly,Tier 2,Los Angeles,Online Display,Product B
+24.1411758,0.00083815,0.002867156,overall,weekly,Tier 2,Tampa,Online Display,Product B
+17.02119784,0.000527426,0.002059019,overall,weekly,Tier 2,Boston,Online Display,Product B
+14.79539894,0.001414086,0.003219078,overall,weekly,Tier 3,Baltimore,Online Display,Product B
+12.44744231,0.001093462,0.001585928,overall,weekly,Tier 3,Dallas,Online Display,Product B
+9.035127435,0.002626816,0.002045456,overall,weekly,Tier 3,Pittsburgh,Online Display,Product B
+80.59535837,4.57E-05,0.019392811,overall,weekly,Tier 1,New York,OLV,Product A
+6.385957819,0.000978029,0.057825889,overall,weekly,Tier 3,Providence,OLV,Product A
+5.512726644,0.001914433,0.059573908,overall,weekly,Tier 3,Norfolk,OLV,Product A
+5.152467958,0.00177297,0.060176669,overall,weekly,Tier 3,Richmond,OLV,Product A
+3.595680507,0.008466978,0.011737387,overall,weekly,Tier 4,Harrisburg,OLV,Product A
+2.051886623,0.002263922,0.041360261,overall,weekly,Tier 4,Buffalo,OLV,Product A
+1.744937447,0.0022434,0.046893289,overall,weekly,Tier 4,Syracuse,OLV,Product A
+0.515111488,0.009681434,0.038566186,overall,weekly,Tier 4,Other,OLV,Product A
+0.956747117,0.001785363,0.072806577,overall,weekly,Tier 4,Albany,OLV,Product A
+0.804524585,0.005194576,0.026473784,overall,weekly,Tier 4,Palm Springs,OLV,Product A
+27.40232463,0.000354107,0.019079421,overall,weekly,Tier 2,"Washington, DC",OLV,Product A
+28.7102929,0.000284829,0.016586588,overall,weekly,Tier 1,Philadelphia,OLV,Product A
+20.85238614,0.000241135,0.015092601,overall,weekly,Tier 2,Los Angeles,OLV,Product A
+18.97971957,0.000386314,0.022932865,overall,weekly,Tier 2,Tampa,OLV,Product A
+13.28654415,0.000286129,0.017963177,overall,weekly,Tier 2,Boston,OLV,Product A
+10.19497981,0.000786897,0.080940725,overall,weekly,Tier 3,Baltimore,OLV,Product A
+8.888954198,0.000568893,0.061436665,overall,weekly,Tier 3,Dallas,OLV,Product A
+6.433404181,0.001360216,0.057298638,overall,weekly,Tier 3,Pittsburgh,OLV,Product A
+40.29767919,9.14E-05,0.019392811,overall,weekly,Tier 1,New York,OLV,Product B
+3.19297891,0.001956058,0.057825889,overall,weekly,Tier 3,Providence,OLV,Product B
+2.756363322,0.003828866,0.059573908,overall,weekly,Tier 3,Norfolk,OLV,Product B
+2.576233979,0.00354594,0.060176669,overall,weekly,Tier 3,Richmond,OLV,Product B
+1.797840254,0.016933956,0.011737387,overall,weekly,Tier 4,Harrisburg,OLV,Product B
+1.025943312,0.004527844,0.041360261,overall,weekly,Tier 4,Buffalo,OLV,Product B
+0.872468724,0.0044868,0.046893289,overall,weekly,Tier 4,Syracuse,OLV,Product B
+0.257555744,0.019362868,0.038566186,overall,weekly,Tier 4,Other,OLV,Product B
+0.478373559,0.003570726,0.072806577,overall,weekly,Tier 4,Albany,OLV,Product B
+0.402262293,0.010389152,0.026473784,overall,weekly,Tier 4,Palm Springs,OLV,Product B
+13.70116232,0.000708214,0.019079421,overall,weekly,Tier 2,"Washington, DC",OLV,Product B
+14.35514645,0.000569658,0.016586588,overall,weekly,Tier 1,Philadelphia,OLV,Product B
+10.42619307,0.00048227,0.015092601,overall,weekly,Tier 2,Los Angeles,OLV,Product B
+9.489859785,0.000772628,0.022932865,overall,weekly,Tier 2,Tampa,OLV,Product B
+6.643272075,0.000572258,0.017963177,overall,weekly,Tier 2,Boston,OLV,Product B
+5.097489905,0.001573794,0.080940725,overall,weekly,Tier 3,Baltimore,OLV,Product B
+4.444477099,0.001137786,0.061436665,overall,weekly,Tier 3,Dallas,OLV,Product B
+3.216702091,0.002720432,0.057298638,overall,weekly,Tier 3,Pittsburgh,OLV,Product B
+13.88944114,0.000480448,1,overall,weekly,Tier 1,New York,OOH,Product A
+24.17703051,0.004092781,1,overall,weekly,Tier 2,"Washington, DC",OOH,Product A
+11.62812584,0.000552241,1,overall,weekly,Tier 1,Philadelphia,OOH,Product A
+4.707650061,0.000327038,1,overall,weekly,Tier 2,Los Angeles,OOH,Product A
+5.643998274,0.000894763,1,overall,weekly,Tier 2,Tampa,OOH,Product A
+19.62367648,0.005289793,1,overall,weekly,Tier 3,Dallas,OOH,Product A
+6.94472057,0.000960896,1,overall,weekly,Tier 1,New York,OOH,Product B
+12.08851526,0.008185562,1,overall,weekly,Tier 2,"Washington, DC",OOH,Product B
+5.81406292,0.001104482,1,overall,weekly,Tier 1,Philadelphia,OOH,Product B
+2.353825031,0.000654076,1,overall,weekly,Tier 2,Los Angeles,OOH,Product B
+2.821999137,0.001789526,1,overall,weekly,Tier 2,Tampa,OOH,Product B
+9.81183824,0.010579586,1,overall,weekly,Tier 3,Dallas,OOH,Product B
+29.84136076,2.17E-05,474.2321311,overall,weekly,Tier 1,New York,Radio,Product A
+2.738540622,0.000611827,55.81467796,overall,weekly,Tier 3,Providence,Radio,Product A
+2.190194866,0.00091235,49.2139055,overall,weekly,Tier 3,Norfolk,Radio,Product A
+2.183791836,0.001131674,41.04171039,overall,weekly,Tier 3,Richmond,Radio,Product A
+0.798197845,0.001616724,26.87793271,overall,weekly,Tier 4,Syracuse,Radio,Product A
+6.651081561,0.000838119,549.3902439,overall,weekly,Tier 4,Other,Radio,Product A
+0.397414665,0.003219413,13.12026836,overall,weekly,Tier 4,Palm Springs,Radio,Product A
+13.83140981,7.41E-05,254.375024,overall,weekly,Tier 2,"Washington, DC",Radio,Product A
+11.7546009,7.97E-05,247.1786098,overall,weekly,Tier 1,Philadelphia,Radio,Product A
+14.60568722,7.49E-05,629.1847826,overall,weekly,Tier 2,Los Angeles,Radio,Product A
+7.923943971,0.000247815,96.27200422,overall,weekly,Tier 2,Tampa,Radio,Product A
+5.818687327,7.29E-05,263.2717021,overall,weekly,Tier 2,Boston,Radio,Product A
+5.057720593,0.00034902,127.7376449,overall,weekly,Tier 3,Baltimore,Radio,Product A
+2.725221129,0.000801153,60.65802523,overall,weekly,Tier 3,Pittsburgh,Radio,Product A
+14.92068038,4.34E-05,474.2321311,overall,weekly,Tier 1,New York,Radio,Product B
+1.369270311,0.001223654,55.81467796,overall,weekly,Tier 3,Providence,Radio,Product B
+1.095097433,0.0018247,49.2139055,overall,weekly,Tier 3,Norfolk,Radio,Product B
+1.091895918,0.002263348,41.04171039,overall,weekly,Tier 3,Richmond,Radio,Product B
+0.399098923,0.003233448,26.87793271,overall,weekly,Tier 4,Syracuse,Radio,Product B
+3.325540781,0.001676238,549.3902439,overall,weekly,Tier 4,Other,Radio,Product B
+0.198707333,0.006438826,13.12026836,overall,weekly,Tier 4,Palm Springs,Radio,Product B
+6.915704905,1.48E-04,254.375024,overall,weekly,Tier 2,"Washington, DC",Radio,Product B
+5.87730045,1.59E-04,247.1786098,overall,weekly,Tier 1,Philadelphia,Radio,Product B
+7.30284361,1.50E-04,629.1847826,overall,weekly,Tier 2,Los Angeles,Radio,Product B
+3.961971986,0.00049563,96.27200422,overall,weekly,Tier 2,Tampa,Radio,Product B
+2.909343664,1.46E-04,263.2717021,overall,weekly,Tier 2,Boston,Radio,Product B
+2.528860297,0.00069804,127.7376449,overall,weekly,Tier 3,Baltimore,Radio,Product B
+1.362610565,0.001602306,60.65802523,overall,weekly,Tier 3,Pittsburgh,Radio,Product B
+27.77948364,5.47E-05,1,overall,weekly,Tier 1,New York,TV Cable,Product A
+2.172256043,0.002016531,1,overall,weekly,Tier 3,Providence,TV Cable,Product A
+1.800918379,0.002227549,1,overall,weekly,Tier 3,Richmond,TV Cable,Product A
+2.244022995,0.002290478,1,overall,weekly,Tier 4,Harrisburg,TV Cable,Product A
+0.623821482,0.003833419,1,overall,weekly,Tier 4,Buffalo,TV Cable,Product A
+2.112760658,0.002061195,1,overall,weekly,Tier 4,Syracuse,TV Cable,Product A
+1.112322229,0.004681307,1,overall,weekly,Tier 4,Albany,TV Cable,Product A
+0.8486137,0.001427556,1,overall,weekly,Tier 4,Palm Springs,TV Cable,Product A
+30.75836515,0.000121107,1,overall,weekly,Tier 2,"Washington, DC",TV Cable,Product A
+25.95529081,0.000103943,1,overall,weekly,Tier 1,Philadelphia,TV Cable,Product A
+23.2774722,5.05E-05,1,overall,weekly,Tier 2,Los Angeles,TV Cable,Product A
+1.70555618,0.000197325,1,overall,weekly,Tier 2,Boston,TV Cable,Product A
+4.192886403,0.000632429,1,overall,weekly,Tier 3,Baltimore,TV Cable,Product A
+32.52266681,0.000192287,1,overall,weekly,Tier 3,Dallas,TV Cable,Product A
+7.553415735,0.000678471,1,overall,weekly,Tier 3,Pittsburgh,TV Cable,Product A
+13.88974182,1.09E-04,1,overall,weekly,Tier 1,New York,TV Cable,Product B
+1.086128022,0.004033062,1,overall,weekly,Tier 3,Providence,TV Cable,Product B
+0.90045919,0.004455098,1,overall,weekly,Tier 3,Richmond,TV Cable,Product B
+1.122011498,0.004580956,1,overall,weekly,Tier 4,Harrisburg,TV Cable,Product B
+0.311910741,0.007666838,1,overall,weekly,Tier 4,Buffalo,TV Cable,Product B
+1.056380329,0.00412239,1,overall,weekly,Tier 4,Syracuse,TV Cable,Product B
+0.556161115,0.009362614,1,overall,weekly,Tier 4,Albany,TV Cable,Product B
+0.42430685,0.002855112,1,overall,weekly,Tier 4,Palm Springs,TV Cable,Product B
+15.37918258,0.000242214,1,overall,weekly,Tier 2,"Washington, DC",TV Cable,Product B
+12.97764541,0.000207886,1,overall,weekly,Tier 1,Philadelphia,TV Cable,Product B
+11.6387361,1.01E-04,1,overall,weekly,Tier 2,Los Angeles,TV Cable,Product B
+0.85277809,0.00039465,1,overall,weekly,Tier 2,Boston,TV Cable,Product B
+2.096443202,0.001264858,1,overall,weekly,Tier 3,Baltimore,TV Cable,Product B
+16.26133341,0.000384574,1,overall,weekly,Tier 3,Dallas,TV Cable,Product B
+3.776707868,0.001356942,1,overall,weekly,Tier 3,Pittsburgh,TV Cable,Product B
+272.7194076,2.33E-06,1,overall,weekly,Tier 1,New York,TV Spot,Product A
+29.09380341,0.000115647,1,overall,weekly,Tier 3,Providence,TV Spot,Product A
+25.3138286,0.000117832,1,overall,weekly,Tier 3,Norfolk,TV Spot,Product A
+32.18445474,9.98E-05,1,overall,weekly,Tier 3,Richmond,TV Spot,Product A
+8.894189354,0.000125485,1,overall,weekly,Tier 4,Syracuse,TV Spot,Product A
+3.572113998,0.000143297,1,overall,weekly,Tier 4,Palm Springs,TV Spot,Product A
+140.0882851,8.07E-06,1,overall,weekly,Tier 2,"Washington, DC",TV Spot,Product A
+113.9157594,8.02E-06,1,overall,weekly,Tier 1,Philadelphia,TV Spot,Product A
+69.50532861,2.06E-05,1,overall,weekly,Tier 2,Tampa,TV Spot,Product A
+55.56118296,1.15E-05,1,overall,weekly,Tier 2,Boston,TV Spot,Product A
+56.36007349,4.60E-05,1,overall,weekly,Tier 3,Baltimore,TV Spot,Product A
+29.68721807,6.14E-05,1,overall,weekly,Tier 3,Pittsburgh,TV Spot,Product A
+136.3597038,4.66E-06,1,overall,weekly,Tier 1,New York,TV Spot,Product B
+14.54690171,0.000231294,1,overall,weekly,Tier 3,Providence,TV Spot,Product B
+12.6569143,0.000235664,1,overall,weekly,Tier 3,Norfolk,TV Spot,Product B
+16.09222737,2.00E-04,1,overall,weekly,Tier 3,Richmond,TV Spot,Product B
+4.447094677,0.00025097,1,overall,weekly,Tier 4,Syracuse,TV Spot,Product B
+1.786056999,0.000286594,1,overall,weekly,Tier 4,Palm Springs,TV Spot,Product B
+70.04414255,1.61E-05,1,overall,weekly,Tier 2,"Washington, DC",TV Spot,Product B
+56.9578797,1.60E-05,1,overall,weekly,Tier 1,Philadelphia,TV Spot,Product B
+34.75266431,4.12E-05,1,overall,weekly,Tier 2,Tampa,TV Spot,Product B
+27.78059148,2.30E-05,1,overall,weekly,Tier 2,Boston,TV Spot,Product B
+28.18003675,9.20E-05,1,overall,weekly,Tier 3,Baltimore,TV Spot,Product B
+14.84360904,1.23E-04,1,overall,weekly,Tier 3,Pittsburgh,TV Spot,Product B
