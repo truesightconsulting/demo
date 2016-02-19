@@ -1,4 +1,4 @@
-setwd("d:\\Archives\\Git\\demo\\admin\\opt\\admin\\")
+setwd("c:\\Users\\XinZhou\\Documents\\GitHub\\demo\\admin\\opt\\admin\\")
 suppressMessages(suppressWarnings(library(RMySQL)))
 # True generate db version files, F generates flat file version files
 db.usage=T
@@ -15,7 +15,7 @@ if (is.staging){
   username="Zkdz408R6hll"
   password="XH3RoKdopf12L4BJbqXTtD2yESgwL$fGd(juW)ed"
 }
-main.path="d:\\Archives\\Git\\opt-admin\\" # opt files path
+main.path="c:\\Users\\XinZhou\\Documents\\GitHub\\opt\\" # opt files path
 season.var=0.8  # from 0 to 1
 
 
