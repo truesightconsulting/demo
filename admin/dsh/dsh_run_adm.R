@@ -1,8 +1,13 @@
 library(data.table);library(bit64);library(plyr)
 suppressMessages(suppressWarnings(library(RMySQL)))
+
+is.staging=T      #True is to staging DB and F is to production DB
+update=T          #if you want to delete all the info from this client, or it is a new client, put it as T
+is.new.client=F   #if new client on the tool then T, else F
+client_name="Demo"
+
 # folder where you put all input files for the client
 path_client="C:\\Users\\yuemeng1\\Desktop\\code\\dashboard\\demo\\admin\\dsh\\" #ensure there is \\ at the end of the path
-
 
 
 # folder where you put your 7za and pscp
@@ -10,30 +15,28 @@ path_system="C:\\Users\\yuemeng1\\"
 # folder where you put your key for AWS RDS
 path_key="C:\\Users\\yuemeng1\\Desktop\\Github\\ninah.ppk"
 # folder where you put the main code
-path_R="C:\\Users\\yuemeng1\\Desktop\\code\\dashboard\\R"
+path_R="C:\\Users\\yuemeng1\\Desktop\\code\\dashboard\\dashboard"
 
-#is.staging=T  True is to staging DB and F is to production DB
-#update=T if you want to delete all the info from this client, or it is a new client, put it as T
 
 setwd(path_client)
 final=fread("dsh_modelinput_data.csv")
 datelkup=fread("dsh_input_lookup_date.csv")
 varlkup=fread("dsh_input_lookup_var.csv",na.strings="")
-dmalkup=fread("dsh_input_lookup_dma.csv")
+# dmalkup=fread("dsh_input_lookup_dma.csv")
 setin=fread("dsh_input_setup_drilldown.csv",na.strings="")
 homesetup=fread("dsh_input_setup_home.csv")
 typetable=fread("dsh_input_type.csv")
 md=fread("dsh_input_setup_market_date.csv")
 datelkup$week=as.Date(datelkup$week,"%m/%d/%Y")
-setup=fread("dsh_input_setup.csv")
+# setup=fread("dsh_input_setup.csv")
 
 
 #Please check if the date format makes sense after this step
 final$week=as.Date(final$week,"%m/%d/%Y")
 
-if(setup$update ==1) update=T else update=F
-if(setup$is.staging==1) is.staging=T else is.staging=F
-if(setup$is.new.client==1) is.new.client=T else is.new.client=F
+# if(setup$update ==1) update=T else update=F
+# if(setup$is.staging==1) is.staging=T else is.staging=F
+# if(setup$is.new.client==1) is.new.client=T else is.new.client=F
 
 # DB server info
 db.name="nviz"
