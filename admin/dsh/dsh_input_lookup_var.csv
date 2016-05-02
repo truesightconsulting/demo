@@ -1,136 +1,136 @@
-variable,type,var,f_1,f_2,f_3,metric,export_1
-disp_click,2,Display,,,,m_3,Display_Click
-disp_imp,2,Display,,,,m_2,Display_Impression
-disp_spd,2,Display,,,,m_1,Display_Spend
-local_mobile_clk,2,Local Mobile,,,,m_3,Local Mobile_Click
-local_mobile_imp,2,Local Mobile,,,,m_2,Local Mobile_Impression
-local_mobile_spd,2,Local Mobile,,,,m_1,Local Mobile_Spend
-lr_grp,2,Local Radio,,,,m_3,Local Radio_GRP
-lr_imp,2,Local Radio,,,,m_2,Local Radio_Impression
-lr_spd,2,Local Radio,,,,m_1,Local Radio_Spend
-lt_grp,2,Local TV,,,,m_3,Local TV_GRP
-lt_imp,2,Local TV,,,,m_2,Local TV_Impression
-lt_spd,2,Local TV,,,,m_1,Local TV_Spend
-mag_grp,2,Magazine,,,,m_3,Magazine_GRP
-mag_imp,2,Magazine,,,,m_2,Magazine_Impression
-mag_spd,2,Magazine,,,,m_1,Magazine_Spend
-nr_dgt_grp,2,Network Radio,Digital,,,m_3,Network Radio_Digital_GRP
-nr_dgt_imp,2,Network Radio,Digital,,,m_2,Network Radio_Digital_Impression
-nr_dgt_spd,2,Network Radio,Digital,,,m_1,Network Radio_Digital_Spend
-nr_terr_grp,2,Network Radio,Territail,,,m_3,Network Radio_Territail_GRP
-nr_terr_imp,2,Network Radio,Territail,,,m_2,Network Radio_Territail_Impression
-nr_terr_spd,2,Network Radio,Territail,,,m_1,Network Radio_Territail_Spend
-nt_imp,2,National TV,,,,m_2,National TV_Impression
-nt_spd,2,National TV,,,,m_1,National TV_Spend
-ooh_imp,2,OOH,,,,m_2,OOH_Impression
-ooh_spd,2,OOH,,,,m_1,OOH_Spend
-psch_clk_dsktp_pla_br,2,Search,Desktop,PLA,Brand,m_3,Search_Desktop_PLA_Brand_Click
-psch_clk_dsktp_pla_nbr,2,Search,Desktop,PLA,Non-Brand,m_3,Search_Desktop_PLA_Non-Brand_Click
-psch_clk_dsktp_reg_br,2,Search,Desktop,Regular,Brand,m_3,Search_Desktop_Regular_Brand_Click
-psch_clk_dsktp_reg_nbr,2,Search,Desktop,Regular,Non-Brand,m_3,Search_Desktop_Regular_Non-Brand_Click
-psch_clk_mo_pla_br,2,Search,Mobile,PLA,Brand,m_3,Search_Mobile_PLA_Brand_Click
-psch_clk_mo_pla_nbr,2,Search,Mobile,PLA,Non-Brand,m_3,Search_Mobile_PLA_Non-Brand_Click
-psch_clk_mo_reg_br,2,Search,Mobile,Regular,Brand,m_3,Search_Mobile_Regular_Brand_Click
-psch_clk_mo_reg_nbr,2,Search,Mobile,Regular,Non-Brand,m_3,Search_Mobile_Regular_Non-Brand_Click
-psch_clk_tblt_pla_br,2,Search,Tablet,PLA,Brand,m_3,Search_Tablet_PLA_Brand_Click
-psch_clk_tblt_pla_nbr,2,Search,Tablet,PLA,Non-Brand,m_3,Search_Tablet_PLA_Non-Brand_Click
-psch_clk_tblt_reg_br,2,Search,Tablet,Regular,Brand,m_3,Search_Tablet_Regular_Brand_Click
-psch_clk_tblt_reg_nbr,2,Search,Tablet,Regular,Non-Brand,m_3,Search_Tablet_Regular_Non-Brand_Click
-psch_imp_dsktp_pla_br,2,Search,Desktop,PLA,Brand,m_2,Search_Desktop_PLA_Brand_Impression
-psch_imp_dsktp_pla_nbr,2,Search,Desktop,PLA,Non-Brand,m_2,Search_Desktop_PLA_Non-Brand_Impression
-psch_imp_dsktp_reg_br,2,Search,Desktop,Regular,Brand,m_2,Search_Desktop_Regular_Brand_Impression
-psch_imp_dsktp_reg_nbr,2,Search,Desktop,Regular,Non-Brand,m_2,Search_Desktop_Regular_Non-Brand_Impression
-psch_imp_mo_pla_br,2,Search,Mobile,PLA,Brand,m_2,Search_Mobile_PLA_Brand_Impression
-psch_imp_mo_pla_nbr,2,Search,Mobile,PLA,Non-Brand,m_2,Search_Mobile_PLA_Non-Brand_Impression
-psch_imp_mo_reg_br,2,Search,Mobile,Regular,Brand,m_2,Search_Mobile_Regular_Brand_Impression
-psch_imp_mo_reg_nbr,2,Search,Mobile,Regular,Non-Brand,m_2,Search_Mobile_Regular_Non-Brand_Impression
-psch_imp_tblt_pla_br,2,Search,Tablet,PLA,Brand,m_2,Search_Tablet_PLA_Brand_Impression
-psch_imp_tblt_pla_nbr,2,Search,Tablet,PLA,Non-Brand,m_2,Search_Tablet_PLA_Non-Brand_Impression
-psch_imp_tblt_reg_br,2,Search,Tablet,Regular,Brand,m_2,Search_Tablet_Regular_Brand_Impression
-psch_imp_tblt_reg_nbr,2,Search,Tablet,Regular,Non-Brand,m_2,Search_Tablet_Regular_Non-Brand_Impression
-psch_spd_dsktp_pla_br,2,Search,Desktop,PLA,Brand,m_1,Search_Desktop_PLA_Brand_Spend
-psch_spd_dsktp_pla_nbr,2,Search,Desktop,PLA,Non-Brand,m_1,Search_Desktop_PLA_Non-Brand_Spend
-psch_spd_dsktp_reg_br,2,Search,Desktop,Regular,Brand,m_1,Search_Desktop_Regular_Brand_Spend
-psch_spd_dsktp_reg_nbr,2,Search,Desktop,Regular,Non-Brand,m_1,Search_Desktop_Regular_Non-Brand_Spend
-psch_spd_mo_pla_br,2,Search,Mobile,PLA,Brand,m_1,Search_Mobile_PLA_Brand_Spend
-psch_spd_mo_pla_nbr,2,Search,Mobile,PLA,Non-Brand,m_1,Search_Mobile_PLA_Non-Brand_Spend
-psch_spd_mo_reg_br,2,Search,Mobile,Regular,Brand,m_1,Search_Mobile_Regular_Brand_Spend
-psch_spd_mo_reg_nbr,2,Search,Mobile,Regular,Non-Brand,m_1,Search_Mobile_Regular_Non-Brand_Spend
-psch_spd_tblt_pla_br,2,Search,Tablet,PLA,Brand,m_1,Search_Tablet_PLA_Brand_Spend
-psch_spd_tblt_pla_nbr,2,Search,Tablet,PLA,Non-Brand,m_1,Search_Tablet_PLA_Non-Brand_Spend
-psch_spd_tblt_reg_br,2,Search,Tablet,Regular,Brand,m_1,Search_Tablet_Regular_Brand_Spend
-psch_spd_tblt_reg_nbr,2,Search,Tablet,Regular,Non-Brand,m_1,Search_Tablet_Regular_Non-Brand_Spend
-Tab_Circ_Midweek,2,Tab,Midweek,,,m_2,Tab_Midweek_circ
-Tab_Circ_Other,2,Tab,Other,,,m_2,Tab_Other_circ
-Tab_Circ_ROP,2,Tab,ROP,,,m_2,Tab_ROP_circ
-Tab_Circ_Sunday,2,Tab,Sunday,,,m_2,Tab_Sunday_circ
-Tab_Circ_Weekend,2,Tab,Weekend,,,m_2,Tab_Weekend_circ
-Tab_Spend_Midweek,2,Tab,Midweek,,,m_1,Tab_Midweek_Spend
-Tab_Spend_Other,2,Tab,Other,,,m_1,Tab_Other_Spend
-Tab_Spend_ROP,2,Tab,ROP,,,m_1,Tab_ROP_Spend
-Tab_Spend_Sunday,2,Tab,Sunday,,,m_1,Tab_Sunday_Spend
-Tab_Spend_Weekend,2,Tab,Weekend,,,m_1,Tab_Weekend_Spend
-ex_nloy_nkc_other_final,1,Segment A,Existing Customer,Non Loyalist,Segment A,m_1,Segment A_Existing Customer_Non Loyalist_Final
-ex_nloy_nkc_fsloy_final,1,Segment B,Existing Customer,Non Loyalist,Segment B,m_1,Segment B_Existing Customer_Non Loyalist_Final
-ex_nloy_nkc_iseth_final,1,Segment C,Existing Customer,Non Loyalist,Segment C,m_1,Segment C_Existing Customer_Non Loyalist_Final
-ex_nloy_nkc_oleth_final,1,Segment D,Existing Customer,Non Loyalist,Segment D,m_1,Segment D_Existing Customer_Non Loyalist_Final
-ex_nloy_kc_other_final,1,Segment A,Existing Customer,Non Loyalist,Segment A,m_1,Segment A_Existing Customer_Non Loyalist_Final
-ex_nloy_kc_fsloy_final,1,Segment B,Existing Customer,Non Loyalist,Segment B,m_1,Segment B_Existing Customer_Non Loyalist_Final
-ex_nloy_kc_iseth_final,1,Segment C,Existing Customer,Non Loyalist,Segment C,m_1,Segment C_Existing Customer_Non Loyalist_Final
-ex_nloy_kc_oleth_final,1,Segment D,Existing Customer,Non Loyalist,Segment D,m_1,Segment D_Existing Customer_Non Loyalist_Final
-ex_loy_nkc_other_final,1,Segment A,Existing Customer,Loyalist,Segment A,m_1,Segment A_Existing Customer_Loyalist_Final
-ex_loy_nkc_fsloy_final,1,Segment B,Existing Customer,Loyalist,Segment B,m_1,Segment B_Existing Customer_Loyalist_Final
-ex_loy_nkc_iseth_final,1,Segment C,Existing Customer,Loyalist,Segment C,m_1,Segment C_Existing Customer_Loyalist_Final
-ex_loy_nkc_oleth_final,1,Segment D,Existing Customer,Loyalist,Segment D,m_1,Segment D_Existing Customer_Loyalist_Final
-ex_loy_kc_other_final,1,Segment A,Existing Customer,Loyalist,Segment A,m_1,Segment A_Existing Customer_Loyalist_Final
-ex_loy_kc_fsloy_final,1,Segment B,Existing Customer,Loyalist,Segment B,m_1,Segment B_Existing Customer_Loyalist_Final
-ex_loy_kc_iseth_final,1,Segment C,Existing Customer,Loyalist,Segment C,m_1,Segment C_Existing Customer_Loyalist_Final
-ex_loy_kc_oleth_final,1,Segment D,Existing Customer,Loyalist,Segment D,m_1,Segment D_Existing Customer_Loyalist_Final
-new_nloy_nkc_other_final,1,Segment A,New Customer,Non Loyalist,Segment A,m_1,Segment A_New Customer_Non Loyalist_Final
-new_nloy_nkc_fsloy_final,1,Segment B,New Customer,Non Loyalist,Segment B,m_1,Segment B_New Customer_Non Loyalist_Final
-new_nloy_nkc_iseth_final,1,Segment C,New Customer,Non Loyalist,Segment C,m_1,Segment C_New Customer_Non Loyalist_Final
-new_nloy_nkc_oleth_final,1,Segment D,New Customer,Non Loyalist,Segment D,m_1,Segment D_New Customer_Non Loyalist_Final
-new_nloy_kc_other_final,1,Segment A,New Customer,Non Loyalist,Segment A,m_1,Segment A_New Customer_Non Loyalist_Final
-new_nloy_kc_fsloy_final,1,Segment B,New Customer,Non Loyalist,Segment B,m_1,Segment B_New Customer_Non Loyalist_Final
-new_nloy_kc_iseth_final,1,Segment C,New Customer,Non Loyalist,Segment C,m_1,Segment C_New Customer_Non Loyalist_Final
-new_nloy_kc_oleth_final,1,Segment D,New Customer,Non Loyalist,Segment D,m_1,Segment D_New Customer_Non Loyalist_Final
-new_loy_nkc_other_final,1,Segment A,New Customer,Loyalist,Segment A,m_1,Segment A_New Customer_Loyalist_Final
-new_loy_nkc_fsloy_final,1,Segment B,New Customer,Loyalist,Segment B,m_1,Segment B_New Customer_Loyalist_Final
-new_loy_nkc_iseth_final,1,Segment C,New Customer,Loyalist,Segment C,m_1,Segment C_New Customer_Loyalist_Final
-new_loy_nkc_oleth_final,1,Segment D,New Customer,Loyalist,Segment D,m_1,Segment D_New Customer_Loyalist_Final
-new_loy_kc_other_final,1,Segment A,New Customer,Loyalist,Segment A,m_1,Segment A_New Customer_Loyalist_Final
-new_loy_kc_fsloy_final,1,Segment B,New Customer,Loyalist,Segment B,m_1,Segment B_New Customer_Loyalist_Final
-new_loy_kc_iseth_final,1,Segment C,New Customer,Loyalist,Segment C,m_1,Segment C_New Customer_Loyalist_Final
-new_loy_kc_oleth_final,1,Segment D,New Customer,Loyalist,Segment D,m_1,Segment D_New Customer_Loyalist_Final
-ex_nloy_nkc_other_trans,1,Segment A,Existing Customer,Non Loyalist,Segment A,m_2,Segment A_Existing Customer_Non Loyalist_Transaction
-ex_nloy_nkc_fsloy_trans,1,Segment B,Existing Customer,Non Loyalist,Segment B,m_2,Segment B_Existing Customer_Non Loyalist_Transaction
-ex_nloy_nkc_iseth_trans,1,Segment C,Existing Customer,Non Loyalist,Segment C,m_2,Segment C_Existing Customer_Non Loyalist_Transaction
-ex_nloy_nkc_oleth_trans,1,Segment D,Existing Customer,Non Loyalist,Segment D,m_2,Segment D_Existing Customer_Non Loyalist_Transaction
-ex_nloy_kc_other_trans,1,Segment A,Existing Customer,Non Loyalist,Segment A,m_2,Segment A_Existing Customer_Non Loyalist_Transaction
-ex_nloy_kc_fsloy_trans,1,Segment B,Existing Customer,Non Loyalist,Segment B,m_2,Segment B_Existing Customer_Non Loyalist_Transaction
-ex_nloy_kc_iseth_trans,1,Segment C,Existing Customer,Non Loyalist,Segment C,m_2,Segment C_Existing Customer_Non Loyalist_Transaction
-ex_nloy_kc_oleth_trans,1,Segment D,Existing Customer,Non Loyalist,Segment D,m_2,Segment D_Existing Customer_Non Loyalist_Transaction
-ex_loy_nkc_other_trans,1,Segment A,Existing Customer,Loyalist,Segment A,m_2,Segment A_Existing Customer_Loyalist_Transaction
-ex_loy_nkc_fsloy_trans,1,Segment B,Existing Customer,Loyalist,Segment B,m_2,Segment B_Existing Customer_Loyalist_Transaction
-ex_loy_nkc_iseth_trans,1,Segment C,Existing Customer,Loyalist,Segment C,m_2,Segment C_Existing Customer_Loyalist_Transaction
-ex_loy_nkc_oleth_trans,1,Segment D,Existing Customer,Loyalist,Segment D,m_2,Segment D_Existing Customer_Loyalist_Transaction
-ex_loy_kc_other_trans,1,Segment A,Existing Customer,Loyalist,Segment A,m_2,Segment A_Existing Customer_Loyalist_Transaction
-ex_loy_kc_fsloy_trans,1,Segment B,Existing Customer,Loyalist,Segment B,m_2,Segment B_Existing Customer_Loyalist_Transaction
-ex_loy_kc_iseth_trans,1,Segment C,Existing Customer,Loyalist,Segment C,m_2,Segment C_Existing Customer_Loyalist_Transaction
-ex_loy_kc_oleth_trans,1,Segment D,Existing Customer,Loyalist,Segment D,m_2,Segment D_Existing Customer_Loyalist_Transaction
-new_nloy_nkc_other_trans,1,Segment A,New Customer,Non Loyalist,Segment A,m_2,Segment A_New Customer_Non Loyalist_Transaction
-new_nloy_nkc_fsloy_trans,1,Segment B,New Customer,Non Loyalist,Segment B,m_2,Segment B_New Customer_Non Loyalist_Transaction
-new_nloy_nkc_iseth_trans,1,Segment C,New Customer,Non Loyalist,Segment C,m_2,Segment C_New Customer_Non Loyalist_Transaction
-new_nloy_nkc_oleth_trans,1,Segment D,New Customer,Non Loyalist,Segment D,m_2,Segment D_New Customer_Non Loyalist_Transaction
-new_nloy_kc_other_trans,1,Segment A,New Customer,Non Loyalist,Segment A,m_2,Segment A_New Customer_Non Loyalist_Transaction
-new_nloy_kc_fsloy_trans,1,Segment B,New Customer,Non Loyalist,Segment B,m_2,Segment B_New Customer_Non Loyalist_Transaction
-new_nloy_kc_iseth_trans,1,Segment C,New Customer,Non Loyalist,Segment C,m_2,Segment C_New Customer_Non Loyalist_Transaction
-new_nloy_kc_oleth_trans,1,Segment D,New Customer,Non Loyalist,Segment D,m_2,Segment D_New Customer_Non Loyalist_Transaction
-new_loy_nkc_other_trans,1,Segment A,New Customer,Loyalist,Segment A,m_2,Segment A_New Customer_Loyalist_Transaction
-new_loy_nkc_fsloy_trans,1,Segment B,New Customer,Loyalist,Segment B,m_2,Segment B_New Customer_Loyalist_Transaction
-new_loy_nkc_iseth_trans,1,Segment C,New Customer,Loyalist,Segment C,m_2,Segment C_New Customer_Loyalist_Transaction
-new_loy_nkc_oleth_trans,1,Segment D,New Customer,Loyalist,Segment D,m_2,Segment D_New Customer_Loyalist_Transaction
-new_loy_kc_other_trans,1,Segment A,New Customer,Loyalist,Segment A,m_2,Segment A_New Customer_Loyalist_Transaction
-new_loy_kc_fsloy_trans,1,Segment B,New Customer,Loyalist,Segment B,m_2,Segment B_New Customer_Loyalist_Transaction
-new_loy_kc_iseth_trans,1,Segment C,New Customer,Loyalist,Segment C,m_2,Segment C_New Customer_Loyalist_Transaction
-new_loy_kc_oleth_trans,1,Segment D,New Customer,Loyalist,Segment D,m_2,Segment D_New Customer_Loyalist_Transaction
+variable,type,var,tab_1,tab_2,f_1,f_2,f_3,metric,export_1
+disp_click,2,Display,Display,,,,,m_3,Display_Click
+disp_imp,2,Display,Display,,,,,m_2,Display_Impression
+disp_spd,2,Display,Display,,,,,m_1,Display_Spend
+local_mobile_clk,2,Local Mobile,Local Mobile,,,,,m_3,Local Mobile_Click
+local_mobile_imp,2,Local Mobile,Local Mobile,,,,,m_2,Local Mobile_Impression
+local_mobile_spd,2,Local Mobile,Local Mobile,,,,,m_1,Local Mobile_Spend
+lr_grp,2,Local Radio,Local Radio,,,,,m_3,Local Radio_GRP
+lr_imp,2,Local Radio,Local Radio,,,,,m_2,Local Radio_Impression
+lr_spd,2,Local Radio,Local Radio,,,,,m_1,Local Radio_Spend
+lt_grp,2,Local TV,Local TV,,,,,m_3,Local TV_GRP
+lt_imp,2,Local TV,Local TV,,,,,m_2,Local TV_Impression
+lt_spd,2,Local TV,Local TV,,,,,m_1,Local TV_Spend
+mag_grp,2,Magazine,Magazine,,,,,m_3,Magazine_GRP
+mag_imp,2,Magazine,Magazine,,,,,m_2,Magazine_Impression
+mag_spd,2,Magazine,Magazine,,,,,m_1,Magazine_Spend
+nr_dgt_grp,2,Network Radio,Network Radio,,Digital,,,m_3,Network Radio_Digital_GRP
+nr_dgt_imp,2,Network Radio,Network Radio,,Digital,,,m_2,Network Radio_Digital_Impression
+nr_dgt_spd,2,Network Radio,Network Radio,,Digital,,,m_1,Network Radio_Digital_Spend
+nr_terr_grp,2,Network Radio,Network Radio,,Territail,,,m_3,Network Radio_Territail_GRP
+nr_terr_imp,2,Network Radio,Network Radio,,Territail,,,m_2,Network Radio_Territail_Impression
+nr_terr_spd,2,Network Radio,Network Radio,,Territail,,,m_1,Network Radio_Territail_Spend
+nt_imp,2,National TV,National TV,,,,,m_2,National TV_Impression
+nt_spd,2,National TV,National TV,,,,,m_1,National TV_Spend
+ooh_imp,2,OOH,OOH,,,,,m_2,OOH_Impression
+ooh_spd,2,OOH,OOH,,,,,m_1,OOH_Spend
+psch_clk_dsktp_pla_br,2,Search,Search,,Desktop,PLA,Brand,m_3,Search_Desktop_PLA_Brand_Click
+psch_clk_dsktp_pla_nbr,2,Search,Search,,Desktop,PLA,Non-Brand,m_3,Search_Desktop_PLA_Non-Brand_Click
+psch_clk_dsktp_reg_br,2,Search,Search,,Desktop,Regular,Brand,m_3,Search_Desktop_Regular_Brand_Click
+psch_clk_dsktp_reg_nbr,2,Search,Search,,Desktop,Regular,Non-Brand,m_3,Search_Desktop_Regular_Non-Brand_Click
+psch_clk_mo_pla_br,2,Search,Search,,Mobile,PLA,Brand,m_3,Search_Mobile_PLA_Brand_Click
+psch_clk_mo_pla_nbr,2,Search,Search,,Mobile,PLA,Non-Brand,m_3,Search_Mobile_PLA_Non-Brand_Click
+psch_clk_mo_reg_br,2,Search,Search,,Mobile,Regular,Brand,m_3,Search_Mobile_Regular_Brand_Click
+psch_clk_mo_reg_nbr,2,Search,Search,,Mobile,Regular,Non-Brand,m_3,Search_Mobile_Regular_Non-Brand_Click
+psch_clk_tblt_pla_br,2,Search,Search,,Tablet,PLA,Brand,m_3,Search_Tablet_PLA_Brand_Click
+psch_clk_tblt_pla_nbr,2,Search,Search,,Tablet,PLA,Non-Brand,m_3,Search_Tablet_PLA_Non-Brand_Click
+psch_clk_tblt_reg_br,2,Search,Search,,Tablet,Regular,Brand,m_3,Search_Tablet_Regular_Brand_Click
+psch_clk_tblt_reg_nbr,2,Search,Search,,Tablet,Regular,Non-Brand,m_3,Search_Tablet_Regular_Non-Brand_Click
+psch_imp_dsktp_pla_br,2,Search,Search,,Desktop,PLA,Brand,m_2,Search_Desktop_PLA_Brand_Impression
+psch_imp_dsktp_pla_nbr,2,Search,Search,,Desktop,PLA,Non-Brand,m_2,Search_Desktop_PLA_Non-Brand_Impression
+psch_imp_dsktp_reg_br,2,Search,Search,,Desktop,Regular,Brand,m_2,Search_Desktop_Regular_Brand_Impression
+psch_imp_dsktp_reg_nbr,2,Search,Search,,Desktop,Regular,Non-Brand,m_2,Search_Desktop_Regular_Non-Brand_Impression
+psch_imp_mo_pla_br,2,Search,Search,,Mobile,PLA,Brand,m_2,Search_Mobile_PLA_Brand_Impression
+psch_imp_mo_pla_nbr,2,Search,Search,,Mobile,PLA,Non-Brand,m_2,Search_Mobile_PLA_Non-Brand_Impression
+psch_imp_mo_reg_br,2,Search,Search,,Mobile,Regular,Brand,m_2,Search_Mobile_Regular_Brand_Impression
+psch_imp_mo_reg_nbr,2,Search,Search,,Mobile,Regular,Non-Brand,m_2,Search_Mobile_Regular_Non-Brand_Impression
+psch_imp_tblt_pla_br,2,Search,Search,,Tablet,PLA,Brand,m_2,Search_Tablet_PLA_Brand_Impression
+psch_imp_tblt_pla_nbr,2,Search,Search,,Tablet,PLA,Non-Brand,m_2,Search_Tablet_PLA_Non-Brand_Impression
+psch_imp_tblt_reg_br,2,Search,Search,,Tablet,Regular,Brand,m_2,Search_Tablet_Regular_Brand_Impression
+psch_imp_tblt_reg_nbr,2,Search,Search,,Tablet,Regular,Non-Brand,m_2,Search_Tablet_Regular_Non-Brand_Impression
+psch_spd_dsktp_pla_br,2,Search,Search,,Desktop,PLA,Brand,m_1,Search_Desktop_PLA_Brand_Spend
+psch_spd_dsktp_pla_nbr,2,Search,Search,,Desktop,PLA,Non-Brand,m_1,Search_Desktop_PLA_Non-Brand_Spend
+psch_spd_dsktp_reg_br,2,Search,Search,,Desktop,Regular,Brand,m_1,Search_Desktop_Regular_Brand_Spend
+psch_spd_dsktp_reg_nbr,2,Search,Search,,Desktop,Regular,Non-Brand,m_1,Search_Desktop_Regular_Non-Brand_Spend
+psch_spd_mo_pla_br,2,Search,Search,,Mobile,PLA,Brand,m_1,Search_Mobile_PLA_Brand_Spend
+psch_spd_mo_pla_nbr,2,Search,Search,,Mobile,PLA,Non-Brand,m_1,Search_Mobile_PLA_Non-Brand_Spend
+psch_spd_mo_reg_br,2,Search,Search,,Mobile,Regular,Brand,m_1,Search_Mobile_Regular_Brand_Spend
+psch_spd_mo_reg_nbr,2,Search,Search,,Mobile,Regular,Non-Brand,m_1,Search_Mobile_Regular_Non-Brand_Spend
+psch_spd_tblt_pla_br,2,Search,Search,,Tablet,PLA,Brand,m_1,Search_Tablet_PLA_Brand_Spend
+psch_spd_tblt_pla_nbr,2,Search,Search,,Tablet,PLA,Non-Brand,m_1,Search_Tablet_PLA_Non-Brand_Spend
+psch_spd_tblt_reg_br,2,Search,Search,,Tablet,Regular,Brand,m_1,Search_Tablet_Regular_Brand_Spend
+psch_spd_tblt_reg_nbr,2,Search,Search,,Tablet,Regular,Non-Brand,m_1,Search_Tablet_Regular_Non-Brand_Spend
+Tab_Circ_Midweek,2,Tab,Tab,,Midweek,,,m_2,Tab_Midweek_circ
+Tab_Circ_Other,2,Tab,Tab,,Other,,,m_2,Tab_Other_circ
+Tab_Circ_ROP,2,Tab,Tab,,ROP,,,m_2,Tab_ROP_circ
+Tab_Circ_Sunday,2,Tab,Tab,,Sunday,,,m_2,Tab_Sunday_circ
+Tab_Circ_Weekend,2,Tab,Tab,,Weekend,,,m_2,Tab_Weekend_circ
+Tab_Spend_Midweek,2,Tab,Tab,,Midweek,,,m_1,Tab_Midweek_Spend
+Tab_Spend_Other,2,Tab,Tab,,Other,,,m_1,Tab_Other_Spend
+Tab_Spend_ROP,2,Tab,Tab,,ROP,,,m_1,Tab_ROP_Spend
+Tab_Spend_Sunday,2,Tab,Tab,,Sunday,,,m_1,Tab_Sunday_Spend
+Tab_Spend_Weekend,2,Tab,Tab,,Weekend,,,m_1,Tab_Weekend_Spend
+ex_nloy_nkc_other_final,1,Segment A,Sales,,Existing Customer,Non Loyalist,Segment A,m_1,Segment A_Existing Customer_Non Loyalist_Final
+ex_nloy_nkc_fsloy_final,1,Segment B,Sales,,Existing Customer,Non Loyalist,Segment B,m_1,Segment B_Existing Customer_Non Loyalist_Final
+ex_nloy_nkc_iseth_final,1,Segment C,Sales,,Existing Customer,Non Loyalist,Segment C,m_1,Segment C_Existing Customer_Non Loyalist_Final
+ex_nloy_nkc_oleth_final,1,Segment D,Sales,,Existing Customer,Non Loyalist,Segment D,m_1,Segment D_Existing Customer_Non Loyalist_Final
+ex_nloy_kc_other_final,1,Segment A,Sales,,Existing Customer,Non Loyalist,Segment A,m_1,Segment A_Existing Customer_Non Loyalist_Final
+ex_nloy_kc_fsloy_final,1,Segment B,Sales,,Existing Customer,Non Loyalist,Segment B,m_1,Segment B_Existing Customer_Non Loyalist_Final
+ex_nloy_kc_iseth_final,1,Segment C,Sales,,Existing Customer,Non Loyalist,Segment C,m_1,Segment C_Existing Customer_Non Loyalist_Final
+ex_nloy_kc_oleth_final,1,Segment D,Sales,,Existing Customer,Non Loyalist,Segment D,m_1,Segment D_Existing Customer_Non Loyalist_Final
+ex_loy_nkc_other_final,1,Segment A,Sales,,Existing Customer,Loyalist,Segment A,m_1,Segment A_Existing Customer_Loyalist_Final
+ex_loy_nkc_fsloy_final,1,Segment B,Sales,,Existing Customer,Loyalist,Segment B,m_1,Segment B_Existing Customer_Loyalist_Final
+ex_loy_nkc_iseth_final,1,Segment C,Sales,,Existing Customer,Loyalist,Segment C,m_1,Segment C_Existing Customer_Loyalist_Final
+ex_loy_nkc_oleth_final,1,Segment D,Sales,,Existing Customer,Loyalist,Segment D,m_1,Segment D_Existing Customer_Loyalist_Final
+ex_loy_kc_other_final,1,Segment A,Sales,,Existing Customer,Loyalist,Segment A,m_1,Segment A_Existing Customer_Loyalist_Final
+ex_loy_kc_fsloy_final,1,Segment B,Sales,,Existing Customer,Loyalist,Segment B,m_1,Segment B_Existing Customer_Loyalist_Final
+ex_loy_kc_iseth_final,1,Segment C,Sales,,Existing Customer,Loyalist,Segment C,m_1,Segment C_Existing Customer_Loyalist_Final
+ex_loy_kc_oleth_final,1,Segment D,Sales,,Existing Customer,Loyalist,Segment D,m_1,Segment D_Existing Customer_Loyalist_Final
+new_nloy_nkc_other_final,1,Segment A,Sales,,New Customer,Non Loyalist,Segment A,m_1,Segment A_New Customer_Non Loyalist_Final
+new_nloy_nkc_fsloy_final,1,Segment B,Sales,,New Customer,Non Loyalist,Segment B,m_1,Segment B_New Customer_Non Loyalist_Final
+new_nloy_nkc_iseth_final,1,Segment C,Sales,,New Customer,Non Loyalist,Segment C,m_1,Segment C_New Customer_Non Loyalist_Final
+new_nloy_nkc_oleth_final,1,Segment D,Sales,,New Customer,Non Loyalist,Segment D,m_1,Segment D_New Customer_Non Loyalist_Final
+new_nloy_kc_other_final,1,Segment A,Sales,,New Customer,Non Loyalist,Segment A,m_1,Segment A_New Customer_Non Loyalist_Final
+new_nloy_kc_fsloy_final,1,Segment B,Sales,,New Customer,Non Loyalist,Segment B,m_1,Segment B_New Customer_Non Loyalist_Final
+new_nloy_kc_iseth_final,1,Segment C,Sales,,New Customer,Non Loyalist,Segment C,m_1,Segment C_New Customer_Non Loyalist_Final
+new_nloy_kc_oleth_final,1,Segment D,Sales,,New Customer,Non Loyalist,Segment D,m_1,Segment D_New Customer_Non Loyalist_Final
+new_loy_nkc_other_final,1,Segment A,Sales,,New Customer,Loyalist,Segment A,m_1,Segment A_New Customer_Loyalist_Final
+new_loy_nkc_fsloy_final,1,Segment B,Sales,,New Customer,Loyalist,Segment B,m_1,Segment B_New Customer_Loyalist_Final
+new_loy_nkc_iseth_final,1,Segment C,Sales,,New Customer,Loyalist,Segment C,m_1,Segment C_New Customer_Loyalist_Final
+new_loy_nkc_oleth_final,1,Segment D,Sales,,New Customer,Loyalist,Segment D,m_1,Segment D_New Customer_Loyalist_Final
+new_loy_kc_other_final,1,Segment A,Sales,,New Customer,Loyalist,Segment A,m_1,Segment A_New Customer_Loyalist_Final
+new_loy_kc_fsloy_final,1,Segment B,Sales,,New Customer,Loyalist,Segment B,m_1,Segment B_New Customer_Loyalist_Final
+new_loy_kc_iseth_final,1,Segment C,Sales,,New Customer,Loyalist,Segment C,m_1,Segment C_New Customer_Loyalist_Final
+new_loy_kc_oleth_final,1,Segment D,Sales,,New Customer,Loyalist,Segment D,m_1,Segment D_New Customer_Loyalist_Final
+ex_nloy_nkc_other_trans,1,Segment A,Sales,,Existing Customer,Non Loyalist,Segment A,m_2,Segment A_Existing Customer_Non Loyalist_Transaction
+ex_nloy_nkc_fsloy_trans,1,Segment B,Sales,,Existing Customer,Non Loyalist,Segment B,m_2,Segment B_Existing Customer_Non Loyalist_Transaction
+ex_nloy_nkc_iseth_trans,1,Segment C,Sales,,Existing Customer,Non Loyalist,Segment C,m_2,Segment C_Existing Customer_Non Loyalist_Transaction
+ex_nloy_nkc_oleth_trans,1,Segment D,Sales,,Existing Customer,Non Loyalist,Segment D,m_2,Segment D_Existing Customer_Non Loyalist_Transaction
+ex_nloy_kc_other_trans,1,Segment A,Sales,,Existing Customer,Non Loyalist,Segment A,m_2,Segment A_Existing Customer_Non Loyalist_Transaction
+ex_nloy_kc_fsloy_trans,1,Segment B,Sales,,Existing Customer,Non Loyalist,Segment B,m_2,Segment B_Existing Customer_Non Loyalist_Transaction
+ex_nloy_kc_iseth_trans,1,Segment C,Sales,,Existing Customer,Non Loyalist,Segment C,m_2,Segment C_Existing Customer_Non Loyalist_Transaction
+ex_nloy_kc_oleth_trans,1,Segment D,Sales,,Existing Customer,Non Loyalist,Segment D,m_2,Segment D_Existing Customer_Non Loyalist_Transaction
+ex_loy_nkc_other_trans,1,Segment A,Sales,,Existing Customer,Loyalist,Segment A,m_2,Segment A_Existing Customer_Loyalist_Transaction
+ex_loy_nkc_fsloy_trans,1,Segment B,Sales,,Existing Customer,Loyalist,Segment B,m_2,Segment B_Existing Customer_Loyalist_Transaction
+ex_loy_nkc_iseth_trans,1,Segment C,Sales,,Existing Customer,Loyalist,Segment C,m_2,Segment C_Existing Customer_Loyalist_Transaction
+ex_loy_nkc_oleth_trans,1,Segment D,Sales,,Existing Customer,Loyalist,Segment D,m_2,Segment D_Existing Customer_Loyalist_Transaction
+ex_loy_kc_other_trans,1,Segment A,Sales,,Existing Customer,Loyalist,Segment A,m_2,Segment A_Existing Customer_Loyalist_Transaction
+ex_loy_kc_fsloy_trans,1,Segment B,Sales,,Existing Customer,Loyalist,Segment B,m_2,Segment B_Existing Customer_Loyalist_Transaction
+ex_loy_kc_iseth_trans,1,Segment C,Sales,,Existing Customer,Loyalist,Segment C,m_2,Segment C_Existing Customer_Loyalist_Transaction
+ex_loy_kc_oleth_trans,1,Segment D,Sales,,Existing Customer,Loyalist,Segment D,m_2,Segment D_Existing Customer_Loyalist_Transaction
+new_nloy_nkc_other_trans,1,Segment A,Sales,,New Customer,Non Loyalist,Segment A,m_2,Segment A_New Customer_Non Loyalist_Transaction
+new_nloy_nkc_fsloy_trans,1,Segment B,Sales,,New Customer,Non Loyalist,Segment B,m_2,Segment B_New Customer_Non Loyalist_Transaction
+new_nloy_nkc_iseth_trans,1,Segment C,Sales,,New Customer,Non Loyalist,Segment C,m_2,Segment C_New Customer_Non Loyalist_Transaction
+new_nloy_nkc_oleth_trans,1,Segment D,Sales,,New Customer,Non Loyalist,Segment D,m_2,Segment D_New Customer_Non Loyalist_Transaction
+new_nloy_kc_other_trans,1,Segment A,Sales,,New Customer,Non Loyalist,Segment A,m_2,Segment A_New Customer_Non Loyalist_Transaction
+new_nloy_kc_fsloy_trans,1,Segment B,Sales,,New Customer,Non Loyalist,Segment B,m_2,Segment B_New Customer_Non Loyalist_Transaction
+new_nloy_kc_iseth_trans,1,Segment C,Sales,,New Customer,Non Loyalist,Segment C,m_2,Segment C_New Customer_Non Loyalist_Transaction
+new_nloy_kc_oleth_trans,1,Segment D,Sales,,New Customer,Non Loyalist,Segment D,m_2,Segment D_New Customer_Non Loyalist_Transaction
+new_loy_nkc_other_trans,1,Segment A,Sales,,New Customer,Loyalist,Segment A,m_2,Segment A_New Customer_Loyalist_Transaction
+new_loy_nkc_fsloy_trans,1,Segment B,Sales,,New Customer,Loyalist,Segment B,m_2,Segment B_New Customer_Loyalist_Transaction
+new_loy_nkc_iseth_trans,1,Segment C,Sales,,New Customer,Loyalist,Segment C,m_2,Segment C_New Customer_Loyalist_Transaction
+new_loy_nkc_oleth_trans,1,Segment D,Sales,,New Customer,Loyalist,Segment D,m_2,Segment D_New Customer_Loyalist_Transaction
+new_loy_kc_other_trans,1,Segment A,Sales,,New Customer,Loyalist,Segment A,m_2,Segment A_New Customer_Loyalist_Transaction
+new_loy_kc_fsloy_trans,1,Segment B,Sales,,New Customer,Loyalist,Segment B,m_2,Segment B_New Customer_Loyalist_Transaction
+new_loy_kc_iseth_trans,1,Segment C,Sales,,New Customer,Loyalist,Segment C,m_2,Segment C_New Customer_Loyalist_Transaction
+new_loy_kc_oleth_trans,1,Segment D,Sales,,New Customer,Loyalist,Segment D,m_2,Segment D_New Customer_Loyalist_Transaction
