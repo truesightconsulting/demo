@@ -1,0 +1,131 @@
+salchan1_name,sales1_name,chan1_name,chan2_name,chan3_name,dma1_name,var,beta,hl,hrf,max,cpp,apprate,ratio,m_1,m_2
+Bank,DDA,Consumer Bank,Solution,TV,National,Solution_TV,49.35767075,0.6,0.4,2991279.36,1,1,1,1,262
+Bank,DDA,Consumer Bank,Solution,Display,National,Solution_Display,966.4698644,0.3,0.3,490867,1,1,1,1,262
+Bank,DDA,Consumer Bank,Solution,Search,National,Solution_Search,94.08067442,0.3,0.45,126306.7,1,1,1,1,262
+Bank,DDA,Consumer Bank,Amerideal,TV,National,Amerideal_TV,363.8001794,0.3,0.4,1352794.88,1,1,1,1,262
+Bank,DDA,Consumer Bank,Amerideal,Display,National,Amerideal_Display,883.201961,0.3,0.3,276015,1,1,1,1,262
+Bank,DDA,Consumer Bank,Amerideal,Search,National,Amerideal_Search,402.2170646,0.3,0.45,238920.7,1,1,1,1,262
+Bank,DDA,Consumer Bank,CB General,TV,National,CB General_TV,348.4686869,1,0.4,1625575.017,1,1,1,1,262
+Bank,DDA,Consumer Bank,CB General,Display,National,CB General_Display,134.9853372,1,0.3,355183,1,1,1,1,262
+Bank,DDA,Consumer Bank,CB General,Search,National,CB General_Search,228.9054173,1,0.45,252204,1,1,1,1,262
+Bank,DDA,Consumer Bank,CB General,Other,National,CB General_Other,3.91993726,1,0.75,32225.3,1,1,1,1,262
+Bank,DDA,CSR,CSR,TV,National,CSR_TV,614.1335394,4,0.6,7917475.24,1,1,1,1,262
+Bank,DDA,CSR,CSR,Print,National,CSR_Print,67.64300438,2,0.7,1757045.93,1,1,1,1,262
+Bank,DDA,CSR,CSR,Online,National,CSR_Online,1207.382888,0.3,0.4,1444445.5,1,1,1,1,262
+Bank,DDA,CSR,CSR,Other,National,CSR_Other,168.4457119,4,0.15,308182.4,1,1,1,1,262
+Bank,Retention,Consumer Bank,Card,TV,National,Card_TV,1753.593347,5,0.4,9076623.7,1,1,1,1,287
+Bank,Retention,Consumer Bank,Card,Display,National,Card_Display,659.2346062,5,0.3,1915619,1,1,1,1,287
+Bank,Retention,Consumer Bank,Card,Search,National,Card_Search,161.0809988,5,0.45,296998.8,1,1,1,1,287
+Bank,Retention,Consumer Bank,Card,Other,National,Card_Other,53.56355288,5,0.6,328511.1,1,1,1,1,287
+Bank,Retention,Consumer Bank,Solution,TV,National,Solution_TV,581.5439169,5,0.4,2991279.36,1,1,1,1,287
+Bank,Retention,Consumer Bank,Solution,Display,National,Solution_Display,1934.548202,0.4,0.3,490867,1,1,1,1,287
+Bank,Retention,Consumer Bank,Solution,Search,National,Solution_Search,703.1337258,0.4,0.45,126306.7,1,1,1,1,287
+Bank,Retention,Consumer Bank,Amerideal,TV,National,Amerideal_TV,250.9282567,4,0.4,1352794.88,1,1,1,1,287
+Bank,Retention,Consumer Bank,Amerideal,Display,National,Amerideal_Display,94.94482677,4,0.3,276015,1,1,1,1,287
+Bank,Retention,Consumer Bank,Amerideal,Search,National,Amerideal_Search,67.43276487,4,0.45,238920.7,1,1,1,1,287
+Bank,Retention,Consumer Bank,Amerideal,Other,National,Amerideal_Other,0.688967589,4,0.75,12763,1,1,1,1,287
+Bank,Retention,CSR,CSR,TV,National,CSR_TV,1510.95952,5,0.6,7917475.24,1,1,1,1,287
+Bank,Retention,CSR,CSR,Print,National,CSR_Print,144.6723028,0.3,0.7,1757045.93,1,1,1,1,287
+Bank,Retention,CSR,CSR,Online,National,CSR_Online,1344.967017,5,0.4,1444445.5,1,1,1,1,287
+Bank,Saving,Consumer Bank,Solution,TV,National,Solution_TV,16.18763948,0.6,0.4,2991279.36,1,1,1,1,177
+Bank,Saving,Consumer Bank,Solution,Display,National,Solution_Display,316.2044515,0.3,0.3,490867,1,1,1,1,177
+Bank,Saving,Consumer Bank,Solution,Search,National,Solution_Search,30.88544602,0.3,0.45,126306.7,1,1,1,1,177
+Bank,Saving,Consumer Bank,Amerideal,TV,National,Amerideal_TV,119.1632503,0.3,0.4,1352794.88,1,1,1,1,177
+Bank,Saving,Consumer Bank,Amerideal,Display,National,Amerideal_Display,295.6867335,0.3,0.3,276015,1,1,1,1,177
+Bank,Saving,Consumer Bank,Amerideal,Search,National,Amerideal_Search,132.2251373,0.3,0.45,238920.7,1,1,1,1,177
+Bank,Saving,Consumer Bank,CB General,TV,National,CB General_TV,113.4634208,1,0.4,1625575.017,1,1,1,1,177
+Bank,Saving,Consumer Bank,CB General,Display,National,CB General_Display,43.95200685,1,0.3,355183,1,1,1,1,177
+Bank,Saving,Consumer Bank,CB General,Search,National,CB General_Search,74.53292838,1,0.45,252204,1,1,1,1,177
+Bank,Saving,Consumer Bank,CB General,Other,National,CB General_Other,1.555228207,1,0.6,32225.3,1,1,1,1,177
+Bank,Saving,CSR,CSR,TV,National,CSR_TV,200.8487712,4,0.6,7917475.24,1,1,1,1,177
+Bank,Saving,CSR,CSR,Print,National,CSR_Print,22.54291496,2,0.7,1757045.93,1,1,1,1,177
+Bank,Saving,CSR,CSR,Online,National,CSR_Online,394.3180938,0.3,0.4,1444445.5,1,1,1,1,177
+Bank,Saving,CSR,CSR,Other,National,CSR_Other,54.48341381,4,0.15,308182.4,1,1,1,1,177
+Bank,Small Business,Consumer Bank,Solution,TV,National,Solution_TV,343.4709529,5,0.4,2991279.36,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Solution,Display,National,Solution_Display,545.2812163,3,0.3,490867,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Solution,Search,National,Solution_Search,238.1648815,3,0.45,126306.7,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Solution,Other,National,Solution_Other,2.280584658,0.3,0.6,46442.3,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Amerideal,TV,National,Amerideal_TV,23.25974144,0.3,0.4,1352794.88,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Amerideal,Display,National,Amerideal_Display,8.07421756,0.3,0.3,276015,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Amerideal,Search,National,Amerideal_Search,5.227475015,0.3,0.45,238920.7,1,1,1,1,429
+Bank,Small Business,Consumer Bank,Amerideal,Other,National,Amerideal_Other,0.100032154,0.3,0.6,12763,1,1,1,1,429
+Bank,Small Business,CSR,CSR,TV,National,CSR_TV,164.9099881,1,0.6,7917475.24,1,1,1,1,429
+Bank,Small Business,CSR,CSR,Print,National,CSR_Print,123.2645029,4,0.7,1757045.93,1,1,1,1,429
+Bank,Small Business,CSR,CSR,Online,National,CSR_Online,68.0840601,3,0.4,1444445.5,1,1,1,1,429
+Bank,Small Business,CSR,CSR,Other,National,CSR_Other,23.72360325,4,0.3,308182.4,1,1,1,1,429
+Bank,Card,Consumer Bank,Card,TV,National,Card_TV,1891.003927,2,0.4,9076623.7,1,1,1,1,227
+Bank,Card,Consumer Bank,Card,Display,National,Card_Display,1823.258789,0.3,0.3,1915619,1,1,1,1,227
+Bank,Card,Consumer Bank,Card,Search,National,Card_Search,1348.428592,0.3,0.45,296998.8,1,1,1,1,227
+Bank,Card,Consumer Bank,Card,Other,National,Card_Other,154.9298429,4,0.6,328511.1,1,1,1,1,227
+Bank,Card,Consumer Bank,Solution,TV,National,Solution_TV,52.55548327,0.3,0.4,2991279.36,1,1,1,1,227
+Bank,Card,Consumer Bank,Solution,Display,National,Solution_Display,14.5725907,0.3,0.3,490867,1,1,1,1,227
+Bank,Card,Consumer Bank,Solution,Search,National,Solution_Search,5.158752692,0.3,0.45,126306.7,1,1,1,1,227
+Bank,Card,Consumer Bank,Solution,Other,National,Solution_Other,1.510000349,0.3,0.6,46442.3,1,1,1,1,227
+Bank,Card,Consumer Bank,Amerideal,TV,National,Amerideal_TV,362.1442744,0.3,0.4,1352794.88,1,1,1,1,227
+Bank,Card,Consumer Bank,Amerideal,Display,National,Amerideal_Display,125.7121309,0.3,0.3,276015,1,1,1,1,227
+Bank,Card,Consumer Bank,Amerideal,Search,National,Amerideal_Search,81.38956108,0.3,0.45,238920.7,1,1,1,1,227
+Bank,Card,Consumer Bank,Amerideal,Other,National,Amerideal_Other,1.557458056,0.3,0.6,12763,1,1,1,1,227
+Bank,Card,CSR,CSR,TV,National,CSR_TV,686.0862402,0.3,0.6,7917475.24,1,1,1,1,227
+Bank,Card,CSR,CSR,Online,National,CSR_Online,819.9696802,0.3,0.4,1444445.5,1,1,1,1,227
+Bank,TranW,Consumer Bank,Card,TV,National,Card_TV,214067.9142,3,0.4,9076623.7,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Card,Display,National,Card_Display,80050.92204,3,0.3,1915619,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Card,Search,National,Card_Search,19276.74421,3,0.45,296998.8,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Card,Other,National,Card_Other,6476.082917,3,0.6,328511.1,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Solution,TV,National,Solution_TV,189617.844,7,0.4,2991279.36,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Solution,Display,National,Solution_Display,57374.72287,7,0.3,490867,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Solution,Search,National,Solution_Search,25803.32748,7,0.45,126306.7,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Solution,Other,National,Solution_Other,7676.727556,7,0.6,46442.3,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Amerideal,TV,National,Amerideal_TV,126876.2185,1,0.4,1352794.88,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Amerideal,Display,National,Amerideal_Display,46430.01296,1,0.3,276015,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Amerideal,Search,National,Amerideal_Search,31750.91458,1,0.45,238920.7,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,Amerideal,Other,National,Amerideal_Other,359.395279,1,0.75,12763,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,CB General,TV,National,CB General_TV,201962.8642,1,0.4,1625575.017,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,CB General,Display,National,CB General_Display,78233.78788,1,0.3,355183,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,CB General,Search,National,CB General_Search,132667.2825,1,0.45,252204,1,1,1,1,0.1141
+Bank,TranW,Consumer Bank,CB General,Other,National,CB General_Other,2271.887794,1,0.75,32225.3,1,1,1,1,0.1141
+Bank,TranW,CSR,CSR,TV,National,CSR_TV,465387.2298,0.3,0.6,7917475.24,1,1,1,1,0.1141
+Bank,TranW,CSR,CSR,Print,National,CSR_Print,44632.15983,0.3,0.7,1757045.93,1,1,1,1,0.1141
+Bank,TranW,CSR,CSR,Online,National,CSR_Online,125900.7873,0.3,0.4,1444445.5,1,1,1,1,0.1141
+Bank,TranW,CSR,CSR,Other,National,CSR_Other,52972.52937,0.3,0.15,308182.4,1,1,1,1,0.1141
+Bank,TranD,Consumer Bank,Card,TV,National,Card_TV,16.71676159,3,0.4,9076623.695,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Card,Display,National,Card_Display,6.251250604,3,0.3,1915618.803,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Card,Search,National,Card_Search,1.5053388,3,0.45,296998.8,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Card,Other,National,Card_Other,0.50572331,3,0.6,328511.1,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Solution,TV,National,Solution_TV,25749.99425,1,0.4,2991279.36,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Solution,Display,National,Solution_Display,7507.325012,1,0.3,490867,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Solution,Search,National,Solution_Search,3020.115712,1,0.45,126306.7,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Solution,Other,National,Solution_Other,891.264555,1,0.6,46442.3,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Amerideal,TV,National,Amerideal_TV,10297.00091,1,0.4,1352794.88,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Amerideal,Display,National,Amerideal_Display,3768.159954,1,0.3,276015,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Amerideal,Search,National,Amerideal_Search,2576.835912,1,0.45,238920.7,1,1,1,1,0.9297
+Bank,TranD,Consumer Bank,Amerideal,Other,National,Amerideal_Other,29.16774758,1,0.75,12763,1,1,1,1,0.9297
+Bank,TranD,CSR,CSR,TV,National,CSR_TV,14793.57352,0.3,0.6,7917475.24,1,1,1,1,0.9297
+Bank,TranD,CSR,CSR,Print,National,CSR_Print,1418.752161,0.3,0.7,1757045.93,1,1,1,1,0.9297
+Bank,TranD,CSR,CSR,Online,National,CSR_Online,4002.092096,0.3,0.4,1444445.5,1,1,1,1,0.9297
+Bank,TranD,CSR,CSR,Other,National,CSR_Other,1683.873036,0.3,0.15,308182.4,1,1,1,1,0.9297
+Bank,RSV,Consumer Bank,Card,TV,National,Card_TV,8739186.385,0.3,0.4,9076623.7,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Card,Display,National,Card_Display,4625521.431,3,0.3,1915619,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Solution,TV,National,Solution_TV,989833.4617,0.3,0.4,2991279.36,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Solution,Display,National,Solution_Display,274461.141,0.3,0.3,490867,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Solution,Search,National,Solution_Search,94408.96225,0.3,0.6,126306.7,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Solution,Other,National,Solution_Other,28439.44683,0.3,0.6,46442.3,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Amerideal,TV,National,Amerideal_TV,1958891.64,0.6,0.4,1352794.88,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Amerideal,Display,National,Amerideal_Display,701151.3375,0.6,0.3,276015,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Amerideal,Search,National,Amerideal_Search,416438.0398,0.6,0.6,238920.7,1,1,1,1,0.024
+Bank,RSV,Consumer Bank,Amerideal,Other,National,Amerideal_Other,5671.316546,0.6,0.75,12763,1,1,1,1,0.024
+Bank,RSV,CSR,CSR,TV,National,CSR_TV,19666885.52,3,0.6,7917475.24,1,1,1,1,0.024
+Bank,RSV,CSR,CSR,Print,National,CSR_Print,432948.4406,3,0.7,1757045.93,1,1,1,1,0.024
+Bank,RSV,CSR,CSR,Online,National,CSR_Online,1807947.475,4,0.4,1444445.5,1,1,1,1,0.024
+Bank,RSV,CSR,CSR,Other,National,CSR_Other,4942419.05,3,0.3,308182.4,1,1,1,1,0.024
+Bank,T Saving,Consumer Bank,Solution,TV,National,Solution_TV,2849044.215,0.3,0.4,2991279.36,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,Solution,Display,National,Solution_Display,789983.3217,0.3,0.3,490867,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,Solution,Search,National,Solution_Search,271737.9421,0.3,0.6,126306.7,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,Solution,Other,National,Solution_Other,81857.44838,0.3,0.6,46442.3,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,CB General,TV,National,CB General_TV,1239987.084,5,0.4,1625575.017,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,CB General,Display,National,CB General_Display,497295.2538,5,0.3,355183,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,CB General,Search,National,CB General_Search,961782.2246,5,0.6,252204,1,1,1,1,0.03
+Bank,T Saving,Consumer Bank,CB General,Other,National,CB General_Other,14940.92687,5,0.75,32225.3,1,1,1,1,0.03
+Bank,Savings Balance MMS,Consumer Bank,Solution,TV,National,Solution_TV,3116769.802,0.3,0.4,2991279.36,1,1,1,1,0.044
+Bank,Savings Balance MMS,Consumer Bank,Solution,Display,National,Solution_Display,864218.3042,0.3,0.3,490867,1,1,1,1,0.044
+Bank,Savings Balance MMS,Consumer Bank,Solution,Search,National,Solution_Search,297273.2423,0.3,0.6,126306.7,1,1,1,1,0.044
+Bank,Savings Balance MMS,Consumer Bank,Solution,Other,National,Solution_Other,89549.61869,0.3,0.6,46442.3,1,1,1,1,0.044

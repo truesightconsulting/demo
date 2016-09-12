@@ -1,0 +1,7 @@
+label,module,status
+Cost Per Support,mmm_input_cps,1
+Time Window,mmm_input_date_range,1
+Tactics,mmm_input_dim_chan,1
+Markets,mmm_input_dim_dma,1
+LOB's,mmm_input_dim_sales,1
+Sales Channel,mmm_input_dim_salchan,0
