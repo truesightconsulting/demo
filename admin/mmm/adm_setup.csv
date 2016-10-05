@@ -2,7 +2,7 @@ attribute,value
 update,y
 client_name,Demo
 r_path,/home/rstudio/nviz/demo/
-time,1/1/2016
+time,1/4/2016
 bdgt_dim,"chan3_id,chan2_id,chan1_id,dma1_id"
 dim_chan,"chan3_id,chan2_id,chan1_id"
 dim_dma,dma1_id

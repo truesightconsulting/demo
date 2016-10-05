@@ -5,3 +5,4 @@ Tactics,mmm_input_dim_chan,1
 Markets,mmm_input_dim_dma,1
 LOB's,mmm_input_dim_sales,1
 Sales Channel,mmm_input_dim_salchan,0
+Plan Setup,mmm_input_plan,1

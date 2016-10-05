@@ -9,7 +9,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 3.021509589,0.00258052,0.396118713,overall,weekly,Tier 4,Other,Direct Mail,Product A
 4.593283655,0.002073335,0.375476123,overall,weekly,Tier 4,Albany,Direct Mail,Product A
 3.053682401,0.003633836,0.408902674,overall,weekly,Tier 4,Palm Springs,Direct Mail,Product A
-134.4631617,0.000865994,0.390102624,overall,weekly,Tier 2,"Washington, DC",Direct Mail,Product A
+134.4631617,0.000865994,0.390102624,overall,weekly,Tier 2,Washington DC,Direct Mail,Product A
 128.8849084,4.41E-05,0.395691282,overall,weekly,Tier 1,Philadelphia,Direct Mail,Product A
 95.94461859,7.76E-05,0.408902674,overall,weekly,Tier 2,Los Angeles,Direct Mail,Product A
 82.71958569,0.000100786,0.379162807,overall,weekly,Tier 2,Tampa,Direct Mail,Product A
@@ -27,7 +27,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 1.510754795,0.00516104,0.396118713,overall,weekly,Tier 4,Other,Direct Mail,Product B
 2.296641828,0.00414667,0.375476123,overall,weekly,Tier 4,Albany,Direct Mail,Product B
 1.526841201,0.007267672,0.408902674,overall,weekly,Tier 4,Palm Springs,Direct Mail,Product B
-67.23158085,0.001731988,0.390102624,overall,weekly,Tier 2,"Washington, DC",Direct Mail,Product B
+67.23158085,0.001731988,0.390102624,overall,weekly,Tier 2,Washington DC,Direct Mail,Product B
 64.4424542,8.82E-05,0.395691282,overall,weekly,Tier 1,Philadelphia,Direct Mail,Product B
 47.9723093,1.55E-04,0.408902674,overall,weekly,Tier 2,Los Angeles,Direct Mail,Product B
 41.35979285,0.000201572,0.379162807,overall,weekly,Tier 2,Tampa,Direct Mail,Product B
@@ -44,7 +44,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 2.156000044,0.000255212,76.86409212,overall,weekly,Tier 4,Syracuse,DRTV,Product A
 1.575412996,0.000175516,114.1128447,overall,weekly,Tier 4,Albany,DRTV,Product A
 1.274152986,0.000169312,90.20946133,overall,weekly,Tier 4,Palm Springs,DRTV,Product A
-47.32198702,2.00E-05,708.410217,overall,weekly,Tier 2,"Washington, DC",DRTV,Product A
+47.32198702,2.00E-05,708.410217,overall,weekly,Tier 2,Washington DC,DRTV,Product A
 30.15254119,2.73E-05,499.2601634,overall,weekly,Tier 1,Philadelphia,DRTV,Product A
 31.59839081,4.10E-05,378.566093,overall,weekly,Tier 2,Tampa,DRTV,Product A
 22.50748713,3.60E-05,296.7485426,overall,weekly,Tier 2,Boston,DRTV,Product A
@@ -59,21 +59,21 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 1.078000022,0.000510424,76.86409212,overall,weekly,Tier 4,Syracuse,DRTV,Product B
 0.787706498,0.000351032,114.1128447,overall,weekly,Tier 4,Albany,DRTV,Product B
 0.637076493,0.000338624,90.20946133,overall,weekly,Tier 4,Palm Springs,DRTV,Product B
-23.66099351,4.00E-05,708.410217,overall,weekly,Tier 2,"Washington, DC",DRTV,Product B
+23.66099351,4.00E-05,708.410217,overall,weekly,Tier 2,Washington DC,DRTV,Product B
 15.0762706,5.46E-05,499.2601634,overall,weekly,Tier 1,Philadelphia,DRTV,Product B
 15.79919541,8.20E-05,378.566093,overall,weekly,Tier 2,Tampa,DRTV,Product B
 11.25374357,7.20E-05,296.7485426,overall,weekly,Tier 2,Boston,DRTV,Product B
 5.0179595,1.78E-04,199.7255488,overall,weekly,Tier 3,Baltimore,DRTV,Product B
 3.632828561,1.73E-04,206.1454349,overall,weekly,Tier 3,Pittsburgh,DRTV,Product B
 15.42433513,5.18E-05,1,overall,weekly,Tier 1,New York,Hispanic - Display,Product A
-3.855924939,0.00034516,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - Display,Product A
+3.855924939,0.00034516,1,overall,weekly,Tier 2,Washington DC,Hispanic - Display,Product A
 4.342648781,0.000295851,1,overall,weekly,Tier 1,Philadelphia,Hispanic - Display,Product A
 5.09480171,5.92E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Display,Product A
 3.305778642,0.00034516,1,overall,weekly,Tier 2,Tampa,Hispanic - Display,Product A
 1.65565208,0.000517739,1,overall,weekly,Tier 2,Boston,Hispanic - Display,Product A
 0.951374661,0.001035479,1,overall,weekly,Tier 3,Dallas,Hispanic - Display,Product A
 7.712167565,1.04E-04,1,overall,weekly,Tier 1,New York,Hispanic - Display,Product B
-1.92796247,0.00069032,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - Display,Product B
+1.92796247,0.00069032,1,overall,weekly,Tier 2,Washington DC,Hispanic - Display,Product B
 2.171324391,0.000591702,1,overall,weekly,Tier 1,Philadelphia,Hispanic - Display,Product B
 2.547400855,1.18E-04,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Display,Product B
 1.652889321,0.00069032,1,overall,weekly,Tier 2,Tampa,Hispanic - Display,Product B
@@ -89,7 +89,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.471683785,0.003602945,1,overall,weekly,Tier 4,Other,Hispanic - DM,Product A
 0.589577251,0.002350509,1,overall,weekly,Tier 4,Albany,Hispanic - DM,Product A
 0.350667293,0.001541114,1,overall,weekly,Tier 4,Palm Springs,Hispanic - DM,Product A
-17.26518121,0.001930802,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DM,Product A
+17.26518121,0.001930802,1,overall,weekly,Tier 2,Washington DC,Hispanic - DM,Product A
 15.72020779,8.48E-05,1,overall,weekly,Tier 1,Philadelphia,Hispanic - DM,Product A
 9.716999484,3.29E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - DM,Product A
 11.41868296,8.89E-05,1,overall,weekly,Tier 2,Tampa,Hispanic - DM,Product A
@@ -107,7 +107,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.235841893,0.00720589,1,overall,weekly,Tier 4,Other,Hispanic - DM,Product B
 0.294788626,0.004701018,1,overall,weekly,Tier 4,Albany,Hispanic - DM,Product B
 0.175333647,0.003082228,1,overall,weekly,Tier 4,Palm Springs,Hispanic - DM,Product B
-8.632590605,0.003861604,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DM,Product B
+8.632590605,0.003861604,1,overall,weekly,Tier 2,Washington DC,Hispanic - DM,Product B
 7.860103895,1.70E-04,1,overall,weekly,Tier 1,Philadelphia,Hispanic - DM,Product B
 4.858499742,6.58E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - DM,Product B
 5.70934148,1.78E-04,1,overall,weekly,Tier 2,Tampa,Hispanic - DM,Product B
@@ -116,9 +116,9 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 2.7519909,0.000348252,1,overall,weekly,Tier 3,Dallas,Hispanic - DM,Product B
 2.04490699,0.001306948,1,overall,weekly,Tier 3,Pittsburgh,Hispanic - DM,Product B
 24.93988352,0.00013643,1,overall,weekly,Tier 1,New York,Hispanic - DRTV,Product A
-14.41244742,0.001589398,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DRTV,Product A
+14.41244742,0.001589398,1,overall,weekly,Tier 2,Washington DC,Hispanic - DRTV,Product A
 12.46994176,0.00027286,1,overall,weekly,Tier 1,New York,Hispanic - DRTV,Product B
-7.20622371,0.003178796,1,overall,weekly,Tier 2,"Washington, DC",Hispanic - DRTV,Product B
+7.20622371,0.003178796,1,overall,weekly,Tier 2,Washington DC,Hispanic - DRTV,Product B
 70.37872161,2.97E-05,1,overall,weekly,Tier 1,New York,Hispanic - Radio,Product A
 7.175022846,2.71E-05,1,overall,weekly,Tier 2,Los Angeles,Hispanic - Radio,Product A
 35.18936081,5.94E-05,1,overall,weekly,Tier 1,New York,Hispanic - Radio,Product B
@@ -132,7 +132,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 1.558887554,0.000131964,0.085546896,overall,weekly,Tier 4,Syracuse,Newspaper,Product A
 1.112519098,4.27E-05,0.271524648,overall,weekly,Tier 4,Other,Newspaper,Product A
 0.860576554,0.000139613,0.145826618,overall,weekly,Tier 4,Albany,Newspaper,Product A
-16.50570846,2.93E-05,0.085719509,overall,weekly,Tier 2,"Washington, DC",Newspaper,Product A
+16.50570846,2.93E-05,0.085719509,overall,weekly,Tier 2,Washington DC,Newspaper,Product A
 19.47462751,4.49E-05,0.065941264,overall,weekly,Tier 1,Philadelphia,Newspaper,Product A
 4.302121677,4.90E-05,0.083400359,overall,weekly,Tier 2,Boston,Newspaper,Product A
 19.16951827,0.00017433,0.118062082,overall,weekly,Tier 3,Baltimore,Newspaper,Product A
@@ -143,7 +143,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.779443777,0.000263928,0.085546896,overall,weekly,Tier 4,Syracuse,Newspaper,Product B
 0.556259549,8.54E-05,0.271524648,overall,weekly,Tier 4,Other,Newspaper,Product B
 0.430288277,0.000279226,0.145826618,overall,weekly,Tier 4,Albany,Newspaper,Product B
-8.25285423,5.86E-05,0.085719509,overall,weekly,Tier 2,"Washington, DC",Newspaper,Product B
+8.25285423,5.86E-05,0.085719509,overall,weekly,Tier 2,Washington DC,Newspaper,Product B
 9.737313755,8.98E-05,0.065941264,overall,weekly,Tier 1,Philadelphia,Newspaper,Product B
 2.151060839,9.80E-05,0.083400359,overall,weekly,Tier 2,Boston,Newspaper,Product B
 9.584759135,0.00034866,0.118062082,overall,weekly,Tier 3,Baltimore,Newspaper,Product B
@@ -157,7 +157,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.209528974,0.009837203,0.002634561,overall,weekly,Tier 4,Other,Online Display,Product A
 2.727075562,0.001412771,0.002330804,overall,weekly,Tier 4,Albany,Online Display,Product A
 2.04497391,0.00810117,0.001714469,overall,weekly,Tier 4,Palm Springs,Online Display,Product A
-72.87258221,0.00021788,0.002442422,overall,weekly,Tier 2,"Washington, DC",Online Display,Product A
+72.87258221,0.00021788,0.002442422,overall,weekly,Tier 2,Washington DC,Online Display,Product A
 74.03163624,0.000327732,0.002364755,overall,weekly,Tier 1,Philadelphia,Online Display,Product A
 54.48809155,0.000197482,0.001761033,overall,weekly,Tier 2,Los Angeles,Online Display,Product A
 48.2823516,0.000419075,0.002867156,overall,weekly,Tier 2,Tampa,Online Display,Product A
@@ -175,7 +175,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.104764487,0.019674406,0.002634561,overall,weekly,Tier 4,Other,Online Display,Product B
 1.363537781,0.002825542,0.002330804,overall,weekly,Tier 4,Albany,Online Display,Product B
 1.022486955,0.01620234,0.001714469,overall,weekly,Tier 4,Palm Springs,Online Display,Product B
-36.43629111,0.00043576,0.002442422,overall,weekly,Tier 2,"Washington, DC",Online Display,Product B
+36.43629111,0.00043576,0.002442422,overall,weekly,Tier 2,Washington DC,Online Display,Product B
 37.01581812,0.000655464,0.002364755,overall,weekly,Tier 1,Philadelphia,Online Display,Product B
 27.24404578,0.000394964,0.001761033,overall,weekly,Tier 2,Los Angeles,Online Display,Product B
 24.1411758,0.00083815,0.002867156,overall,weekly,Tier 2,Tampa,Online Display,Product B
@@ -193,7 +193,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.515111488,0.009681434,0.038566186,overall,weekly,Tier 4,Other,OLV,Product A
 0.956747117,0.001785363,0.072806577,overall,weekly,Tier 4,Albany,OLV,Product A
 0.804524585,0.005194576,0.026473784,overall,weekly,Tier 4,Palm Springs,OLV,Product A
-27.40232463,0.000354107,0.019079421,overall,weekly,Tier 2,"Washington, DC",OLV,Product A
+27.40232463,0.000354107,0.019079421,overall,weekly,Tier 2,Washington DC,OLV,Product A
 28.7102929,0.000284829,0.016586588,overall,weekly,Tier 1,Philadelphia,OLV,Product A
 20.85238614,0.000241135,0.015092601,overall,weekly,Tier 2,Los Angeles,OLV,Product A
 18.97971957,0.000386314,0.022932865,overall,weekly,Tier 2,Tampa,OLV,Product A
@@ -211,7 +211,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.257555744,0.019362868,0.038566186,overall,weekly,Tier 4,Other,OLV,Product B
 0.478373559,0.003570726,0.072806577,overall,weekly,Tier 4,Albany,OLV,Product B
 0.402262293,0.010389152,0.026473784,overall,weekly,Tier 4,Palm Springs,OLV,Product B
-13.70116232,0.000708214,0.019079421,overall,weekly,Tier 2,"Washington, DC",OLV,Product B
+13.70116232,0.000708214,0.019079421,overall,weekly,Tier 2,Washington DC,OLV,Product B
 14.35514645,0.000569658,0.016586588,overall,weekly,Tier 1,Philadelphia,OLV,Product B
 10.42619307,0.00048227,0.015092601,overall,weekly,Tier 2,Los Angeles,OLV,Product B
 9.489859785,0.000772628,0.022932865,overall,weekly,Tier 2,Tampa,OLV,Product B
@@ -220,13 +220,13 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 4.444477099,0.001137786,0.061436665,overall,weekly,Tier 3,Dallas,OLV,Product B
 3.216702091,0.002720432,0.057298638,overall,weekly,Tier 3,Pittsburgh,OLV,Product B
 13.88944114,0.000480448,1,overall,weekly,Tier 1,New York,OOH,Product A
-24.17703051,0.004092781,1,overall,weekly,Tier 2,"Washington, DC",OOH,Product A
+24.17703051,0.004092781,1,overall,weekly,Tier 2,Washington DC,OOH,Product A
 11.62812584,0.000552241,1,overall,weekly,Tier 1,Philadelphia,OOH,Product A
 4.707650061,0.000327038,1,overall,weekly,Tier 2,Los Angeles,OOH,Product A
 5.643998274,0.000894763,1,overall,weekly,Tier 2,Tampa,OOH,Product A
 19.62367648,0.005289793,1,overall,weekly,Tier 3,Dallas,OOH,Product A
 6.94472057,0.000960896,1,overall,weekly,Tier 1,New York,OOH,Product B
-12.08851526,0.008185562,1,overall,weekly,Tier 2,"Washington, DC",OOH,Product B
+12.08851526,0.008185562,1,overall,weekly,Tier 2,Washington DC,OOH,Product B
 5.81406292,0.001104482,1,overall,weekly,Tier 1,Philadelphia,OOH,Product B
 2.353825031,0.000654076,1,overall,weekly,Tier 2,Los Angeles,OOH,Product B
 2.821999137,0.001789526,1,overall,weekly,Tier 2,Tampa,OOH,Product B
@@ -238,7 +238,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.798197845,0.001616724,26.87793271,overall,weekly,Tier 4,Syracuse,Radio,Product A
 6.651081561,0.000838119,549.3902439,overall,weekly,Tier 4,Other,Radio,Product A
 0.397414665,0.003219413,13.12026836,overall,weekly,Tier 4,Palm Springs,Radio,Product A
-13.83140981,7.41E-05,254.375024,overall,weekly,Tier 2,"Washington, DC",Radio,Product A
+13.83140981,7.41E-05,254.375024,overall,weekly,Tier 2,Washington DC,Radio,Product A
 11.7546009,7.97E-05,247.1786098,overall,weekly,Tier 1,Philadelphia,Radio,Product A
 14.60568722,7.49E-05,629.1847826,overall,weekly,Tier 2,Los Angeles,Radio,Product A
 7.923943971,0.000247815,96.27200422,overall,weekly,Tier 2,Tampa,Radio,Product A
@@ -252,7 +252,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 0.399098923,0.003233448,26.87793271,overall,weekly,Tier 4,Syracuse,Radio,Product B
 3.325540781,0.001676238,549.3902439,overall,weekly,Tier 4,Other,Radio,Product B
 0.198707333,0.006438826,13.12026836,overall,weekly,Tier 4,Palm Springs,Radio,Product B
-6.915704905,1.48E-04,254.375024,overall,weekly,Tier 2,"Washington, DC",Radio,Product B
+6.915704905,1.48E-04,254.375024,overall,weekly,Tier 2,Washington DC,Radio,Product B
 5.87730045,1.59E-04,247.1786098,overall,weekly,Tier 1,Philadelphia,Radio,Product B
 7.30284361,1.50E-04,629.1847826,overall,weekly,Tier 2,Los Angeles,Radio,Product B
 3.961971986,0.00049563,96.27200422,overall,weekly,Tier 2,Tampa,Radio,Product B
@@ -267,7 +267,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 2.112760658,0.002061195,1,overall,weekly,Tier 4,Syracuse,TV Cable,Product A
 1.112322229,0.004681307,1,overall,weekly,Tier 4,Albany,TV Cable,Product A
 0.8486137,0.001427556,1,overall,weekly,Tier 4,Palm Springs,TV Cable,Product A
-30.75836515,0.000121107,1,overall,weekly,Tier 2,"Washington, DC",TV Cable,Product A
+30.75836515,0.000121107,1,overall,weekly,Tier 2,Washington DC,TV Cable,Product A
 25.95529081,0.000103943,1,overall,weekly,Tier 1,Philadelphia,TV Cable,Product A
 23.2774722,5.05E-05,1,overall,weekly,Tier 2,Los Angeles,TV Cable,Product A
 1.70555618,0.000197325,1,overall,weekly,Tier 2,Boston,TV Cable,Product A
@@ -282,7 +282,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 1.056380329,0.00412239,1,overall,weekly,Tier 4,Syracuse,TV Cable,Product B
 0.556161115,0.009362614,1,overall,weekly,Tier 4,Albany,TV Cable,Product B
 0.42430685,0.002855112,1,overall,weekly,Tier 4,Palm Springs,TV Cable,Product B
-15.37918258,0.000242214,1,overall,weekly,Tier 2,"Washington, DC",TV Cable,Product B
+15.37918258,0.000242214,1,overall,weekly,Tier 2,Washington DC,TV Cable,Product B
 12.97764541,0.000207886,1,overall,weekly,Tier 1,Philadelphia,TV Cable,Product B
 11.6387361,1.01E-04,1,overall,weekly,Tier 2,Los Angeles,TV Cable,Product B
 0.85277809,0.00039465,1,overall,weekly,Tier 2,Boston,TV Cable,Product B
@@ -295,7 +295,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 32.18445474,9.98E-05,1,overall,weekly,Tier 3,Richmond,TV Spot,Product A
 8.894189354,0.000125485,1,overall,weekly,Tier 4,Syracuse,TV Spot,Product A
 3.572113998,0.000143297,1,overall,weekly,Tier 4,Palm Springs,TV Spot,Product A
-140.0882851,8.07E-06,1,overall,weekly,Tier 2,"Washington, DC",TV Spot,Product A
+140.0882851,8.07E-06,1,overall,weekly,Tier 2,Washington DC,TV Spot,Product A
 113.9157594,8.02E-06,1,overall,weekly,Tier 1,Philadelphia,TV Spot,Product A
 69.50532861,2.06E-05,1,overall,weekly,Tier 2,Tampa,TV Spot,Product A
 55.56118296,1.15E-05,1,overall,weekly,Tier 2,Boston,TV Spot,Product A
@@ -307,7 +307,7 @@ a,b,cpp,all_name,curvegroup_name,dma1_name,dma2_name,chan1_name,sales1_name
 16.09222737,2.00E-04,1,overall,weekly,Tier 3,Richmond,TV Spot,Product B
 4.447094677,0.00025097,1,overall,weekly,Tier 4,Syracuse,TV Spot,Product B
 1.786056999,0.000286594,1,overall,weekly,Tier 4,Palm Springs,TV Spot,Product B
-70.04414255,1.61E-05,1,overall,weekly,Tier 2,"Washington, DC",TV Spot,Product B
+70.04414255,1.61E-05,1,overall,weekly,Tier 2,Washington DC,TV Spot,Product B
 56.9578797,1.60E-05,1,overall,weekly,Tier 1,Philadelphia,TV Spot,Product B
 34.75266431,4.12E-05,1,overall,weekly,Tier 2,Tampa,TV Spot,Product B
 27.78059148,2.30E-05,1,overall,weekly,Tier 2,Boston,TV Spot,Product B
