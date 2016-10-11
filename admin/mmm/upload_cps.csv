@@ -1,21 +1,21 @@
 chan3_id,chan2_id,chan1_id,dma1_id,bdgt_id,chan3_name,chan2_name,chan1_name,dma1_name,cps
-1,1,3,1,1_1_3_1,TV,Solution,Consumer Bank,National,2
-2,1,3,1,2_1_3_1,Display,Solution,Consumer Bank,National,2
-3,1,3,1,3_1_3_1,Search,Solution,Consumer Bank,National,2
-1,2,3,1,1_2_3_1,TV,Amerideal,Consumer Bank,National,2
-2,2,3,1,2_2_3_1,Display,Amerideal,Consumer Bank,National,2
-3,2,3,1,3_2_3_1,Search,Amerideal,Consumer Bank,National,2
-1,3,3,1,1_3_3_1,TV,CB General,Consumer Bank,National,2
-2,3,3,1,2_3_3_1,Display,CB General,Consumer Bank,National,2
-3,3,3,1,3_3_3_1,Search,CB General,Consumer Bank,National,2
-4,3,3,1,4_3_3_1,Other,CB General,Consumer Bank,National,2
-1,4,4,1,1_4_4_1,TV,CSR,CSR,National,2
-5,4,4,1,5_4_4_1,Print,CSR,CSR,National,2
-6,4,4,1,6_4_4_1,Online,CSR,CSR,National,2
-4,4,4,1,4_4_4_1,Other,CSR,CSR,National,2
-1,5,3,1,1_5_3_1,TV,Card,Consumer Bank,National,2
-2,5,3,1,2_5_3_1,Display,Card,Consumer Bank,National,2
-3,5,3,1,3_5_3_1,Search,Card,Consumer Bank,National,2
-4,5,3,1,4_5_3_1,Other,Card,Consumer Bank,National,2
-4,2,3,1,4_2_3_1,Other,Amerideal,Consumer Bank,National,2
-4,1,3,1,4_1_3_1,Other,Solution,Consumer Bank,National,2
+7,6,5,2,7_6_5_2,TV,Solution,Consumer Bank,National,1
+8,6,5,2,8_6_5_2,Display,Solution,Consumer Bank,National,1
+9,6,5,2,9_6_5_2,Search,Solution,Consumer Bank,National,1
+7,7,5,2,7_7_5_2,TV,Amerideal,Consumer Bank,National,1
+8,7,5,2,8_7_5_2,Display,Amerideal,Consumer Bank,National,1
+9,7,5,2,9_7_5_2,Search,Amerideal,Consumer Bank,National,1
+7,8,5,2,7_8_5_2,TV,CB General,Consumer Bank,National,1
+8,8,5,2,8_8_5_2,Display,CB General,Consumer Bank,National,1
+9,8,5,2,9_8_5_2,Search,CB General,Consumer Bank,National,1
+10,8,5,2,10_8_5_2,Other,CB General,Consumer Bank,National,1
+7,9,6,2,7_9_6_2,TV,CSR,CSR,National,1
+11,9,6,2,11_9_6_2,Print,CSR,CSR,National,1
+12,9,6,2,12_9_6_2,Online,CSR,CSR,National,1
+10,9,6,2,10_9_6_2,Other,CSR,CSR,National,1
+7,10,5,2,7_10_5_2,TV,Card,Consumer Bank,National,1
+8,10,5,2,8_10_5_2,Display,Card,Consumer Bank,National,1
+9,10,5,2,9_10_5_2,Search,Card,Consumer Bank,National,1
+10,10,5,2,10_10_5_2,Other,Card,Consumer Bank,National,1
+10,7,5,2,10_7_5_2,Other,Amerideal,Consumer Bank,National,1
+10,6,5,2,10_6_5_2,Other,Solution,Consumer Bank,National,1
